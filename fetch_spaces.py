@@ -51,7 +51,7 @@ all_spaces_json = json.dumps(all_spaces, indent=4)
 
 # Save the JSON string to a file
 with open("spaces.json", "w") as f:
-    f.write(all_json)
+    f.write(all_spaces_json)
 
 # Print the number of spaces fetched
 print(f"Fetched {len(all_spaces)} spaces.")
