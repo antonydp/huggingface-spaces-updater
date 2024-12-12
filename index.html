@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hugging Face Spaces</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -12,9 +13,25 @@
     </header>
     <main>
         <div id="spaces-container">
-            <!-- Spaces will be dynamically inserted here -->
+            <table id="spaces-table" class="display" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>TitleID</th>
+                        <th>Title</th>
+                        <th>Author</th>
+                        <th>Likes</th>
+                        <th>Current Hardware</th>
+                        <th>Short Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Spaces will be dynamically inserted here -->
+                </tbody>
+            </table>
         </div>
     </main>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>

@@ -2,24 +2,34 @@ document.addEventListener('DOMContentLoaded', () => {
     fetch('spaces.json')
         .then(response => response.json())
         .then(data => {
-            const spacesContainer = document.getElementById('spaces-container');
+            const tableBody = document.querySelector('#spaces-table tbody');
             data.forEach(space => {
-                const spaceCard = document.createElement('div');
-                spaceCard.className = 'space-card';
-                spaceCard.innerHTML = `
-                    <h2>${space.title}</h2>
-                    <p><strong>ID:</strong> ${space.id}</p>
-                    <p><strong>Author:</strong> ${space.author}</p>
-                    <p><strong>Likes:</strong> ${space.likes}</p>
-                    <p><strong>Current Hardware:</strong> ${space.current_hardware}</p>
-                    <p><strong>Short Description:</strong> ${space.shortDescription || 'No description available'}</p>
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${space.id}</td>
+                    <td>${space.title}</td>
+                    <td>${space.author}</td>
+                    <td>${space.likes}</td>
+                    <td>${space.current_hardware}</td>
+                    <td>${space.shortDescription || 'No description available'}</td>
                 `;
-                spacesContainer.appendChild(spaceCard);
+                tableBody.appendChild(row);
+            });
+
+            // Initialize DataTables
+            $('#spaces-table').DataTable({
+                "order": [[3, "desc"]], // Order by likes in descending order
+                "pageLength": 25, // Number of entries per page
+                "lengthMenu": [10, 25, 50, 100], // Options for number of entries per page
+                "searching": true, // Enable search functionality
+                "paging": true, // Enable pagination
+                "info": true, // Show pagination information
+                "autoWidth": false // Disable automatic column width calculation
             });
         })
         .catch(error => {
             console.error('Error fetching spaces.json:', error);
-            const spacesContainer = document.getElementById('spaces-container');
-            spacesContainer.innerHTML = '<p>Failed to load spaces. Please try again later.</p>';
+            const tableBody = document.querySelector('#spaces-table tbody');
+            tableBody.innerHTML = '<tr><td colspan="6">Failed to load spaces. Please try again later.</td></tr>';
         });
 });
