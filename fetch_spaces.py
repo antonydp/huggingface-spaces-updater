@@ -1,6 +1,5 @@
 import requests
 import json
-from datetime import datetime
 
 # Base URL for the API
 base_url = "https://huggingface.co/spaces-json"
@@ -39,12 +38,19 @@ while True:
         # Include only spaces with hardware different from empty, zero-a10g, and cpu-basic
         if current_hardware not in [None, "zero-a10g", "cpu-basic"]:
             all_spaces.append({
-                **space,
-                'current_hardware': current_hardware
+                "url": f"https://huggingface.co/spaces/{space.get('id')}",
+                "title": space.get("title"),
+                "author": space.get("author"),
+                "likes": space.get("likes", 0),
+                "current_hardware": current_hardware,
+                "shortDescription": space.get("shortDescription", "No description available")
             })
     
     # Increment the page index
     page_index += 1
+
+# Sort the list of spaces by title alphabetically
+all_spaces.sort(key=lambda x: x["title"].lower())
 
 # Convert the list of spaces to a JSON string
 all_spaces_json = json.dumps(all_spaces, indent=4)
