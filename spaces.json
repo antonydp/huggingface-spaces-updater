@@ -3,7 +3,7 @@
         "url": "https://huggingface.co/spaces/galileo-ai/agent-leaderboard",
         "title": "Agent Leaderboard",
         "author": "galileo-ai",
-        "likes": 318,
+        "likes": 319,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Ranking of LLMs for agentic tasks"
     },
@@ -11,7 +11,7 @@
         "url": "https://huggingface.co/spaces/ginipick/AI-BOOK",
         "title": "AI BOOK MAKER",
         "author": "ginipick",
-        "likes": 54,
+        "likes": 23,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Generate a 'AI combined intelligent Flipbook' from text,PDF"
     },
@@ -19,7 +19,7 @@
         "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
         "title": "AI Comic Factory",
         "author": "jbilcke-hf",
-        "likes": 10220,
+        "likes": 10232,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Create your own AI comic with a single prompt"
     },
@@ -37,14 +37,6 @@
         "author": "AIR-Bench",
         "likes": 70,
         "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/HuggingFaceDG/AISheets",
-        "title": "AISheets",
-        "author": "HuggingFaceDG",
-        "likes": 11,
-        "current_hardware": "cpu-xl",
         "shortDescription": "No description available"
     },
     {
@@ -99,16 +91,8 @@
         "url": "https://huggingface.co/spaces/argilla/argilla-template-space",
         "title": "Argilla Space",
         "author": "argilla",
-        "likes": 41,
+        "likes": 42,
         "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/haoheliu/audioldm-text-to-audio-generation",
-        "title": "Audioldm Text To Audio Generation",
-        "author": "haoheliu",
-        "likes": 811,
-        "current_hardware": "l4x1",
         "shortDescription": "No description available"
     },
     {
@@ -163,8 +147,16 @@
         "url": "https://huggingface.co/spaces/CohereLabs/c4ai-command",
         "title": "C4AI Command Models",
         "author": "CohereLabs",
-        "likes": 1334,
+        "likes": 1333,
         "current_hardware": "cpu-upgrade",
+        "shortDescription": "No description available"
+    },
+    {
+        "url": "https://huggingface.co/spaces/nvidia/canary-1b",
+        "title": "Canary 1b",
+        "author": "nvidia",
+        "likes": 198,
+        "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
     {
@@ -227,7 +219,7 @@
         "url": "https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2",
         "title": "CLIP Interrogator 2",
         "author": "fffiloni",
-        "likes": 1290,
+        "likes": 1291,
         "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
@@ -275,9 +267,17 @@
         "url": "https://huggingface.co/spaces/smolagents/computer-agent",
         "title": "Computer Agent",
         "author": "smolagents",
-        "likes": 776,
+        "likes": 784,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
+    },
+    {
+        "url": "https://huggingface.co/spaces/BestWishYsh/ConsisID-preview-Space",
+        "title": "ConsisID-preview",
+        "author": "BestWishYsh",
+        "likes": 74,
+        "current_hardware": "l40sx1",
+        "shortDescription": "Identity-Preserving Text-to-Video Generation"
     },
     {
         "url": "https://huggingface.co/spaces/ml6team/controlnet-interior-design",
@@ -304,6 +304,14 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/nikigoli/countgd",
+        "title": "CountGD_Multi-Modal_Open-World_Counting",
+        "author": "nikigoli",
+        "likes": 100,
+        "current_hardware": "t4-small",
+        "shortDescription": "No description available"
+    },
+    {
         "url": "https://huggingface.co/spaces/Roblox/cube3d-interactive",
         "title": "Cube3d Interactive",
         "author": "Roblox",
@@ -315,7 +323,7 @@
         "url": "https://huggingface.co/spaces/adyen/DABstep",
         "title": "DABstep Leaderboard",
         "author": "adyen",
-        "likes": 57,
+        "likes": 58,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "DABstep Reasoning Benchmark Leaderboard"
     },
@@ -331,9 +339,17 @@
         "url": "https://huggingface.co/spaces/abidlabs/music-separation",
         "title": "Demucs Music Source Separation (v4)",
         "author": "abidlabs",
-        "likes": 144,
+        "likes": 145,
         "current_hardware": "t4-small",
         "shortDescription": "No description available"
+    },
+    {
+        "url": "https://huggingface.co/spaces/nllg/DeTikZify",
+        "title": "DeTikZify",
+        "author": "nllg",
+        "likes": 74,
+        "current_hardware": "l4x1",
+        "shortDescription": "Convert images and sketches into graphics programs with TikZ"
     },
     {
         "url": "https://huggingface.co/spaces/reginabarzilaygroup/DiffDock-Web",
@@ -352,12 +368,12 @@
         "shortDescription": "A Diffusion Model for Video Inpainting"
     },
     {
-        "url": "https://huggingface.co/spaces/qitaoz/DiffusionSfM",
-        "title": "DiffusionSfM",
-        "author": "qitaoz",
-        "likes": 8,
-        "current_hardware": "t4-small",
-        "shortDescription": "No description available"
+        "url": "https://huggingface.co/spaces/rp-yu/Dimple-7B",
+        "title": "Dimple 7B",
+        "author": "rp-yu",
+        "likes": 17,
+        "current_hardware": "l4x1",
+        "shortDescription": "Dimple:  Discrete Diffusion Multimodal Large Language Model"
     },
     {
         "url": "https://huggingface.co/spaces/derek-thomas/disc-golf-simulator",
@@ -382,14 +398,6 @@
         "likes": 71,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "text2text models for document summarization"
-    },
-    {
-        "url": "https://huggingface.co/spaces/fffiloni/EchoMimic",
-        "title": "EchoMimic",
-        "author": "fffiloni",
-        "likes": 122,
-        "current_hardware": "l40sx1",
-        "shortDescription": "Audio-Driven Portrait Animations"
     },
     {
         "url": "https://huggingface.co/spaces/linoyts/edit_friendly_ddpm_inversion",
@@ -427,7 +435,7 @@
         "url": "https://huggingface.co/spaces/fffiloni/expression-editor",
         "title": "Expression Editor",
         "author": "fffiloni",
-        "likes": 1382,
+        "likes": 1383,
         "current_hardware": "l40sx1",
         "shortDescription": "Quickly edit the expression of a face"
     },
@@ -435,7 +443,7 @@
         "url": "https://huggingface.co/spaces/doevent/Face-Real-ESRGAN",
         "title": "Face Real ESRGAN 2x 4x 8x",
         "author": "doevent",
-        "likes": 491,
+        "likes": 492,
         "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
@@ -451,7 +459,7 @@
         "url": "https://huggingface.co/spaces/facebook/fairchem_uma_demo",
         "title": "FAIR Chem UMA Demo",
         "author": "facebook",
-        "likes": 21,
+        "likes": 22,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -507,7 +515,7 @@
         "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
         "title": "GAIA Leaderboard",
         "author": "gaia-benchmark",
-        "likes": 440,
+        "likes": 439,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -515,7 +523,7 @@
         "url": "https://huggingface.co/spaces/Xintao/GFPGAN",
         "title": "GFPGAN",
         "author": "Xintao",
-        "likes": 1043,
+        "likes": 1044,
         "current_hardware": "a10g-small",
         "shortDescription": "No description available"
     },
@@ -531,17 +539,9 @@
         "url": "https://huggingface.co/spaces/ggml-org/gguf-my-repo",
         "title": "GGUF My Repo",
         "author": "ggml-org",
-        "likes": 1461,
+        "likes": 1462,
         "current_hardware": "a10g-large",
         "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/ysharma/gradio-hackathon-registration-2025",
-        "title": "Gradio Hackathon Registration 2025",
-        "author": "ysharma",
-        "likes": 1,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "Gradio Agents & MCP Hackathon 2025 registration"
     },
     {
         "url": "https://huggingface.co/spaces/PAIR/HD-Painter",
@@ -571,7 +571,7 @@
         "url": "https://huggingface.co/spaces/HiDream-ai/HiDream-E1-Full",
         "title": "HiDream E1 Full",
         "author": "HiDream-ai",
-        "likes": 131,
+        "likes": 132,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -603,7 +603,7 @@
         "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-1",
         "title": "Hunyuan3D-1.0",
         "author": "tencent",
-        "likes": 238,
+        "likes": 239,
         "current_hardware": "l40sx1",
         "shortDescription": "Text-to-3D and Image-to-3D Generation"
     },
@@ -619,7 +619,7 @@
         "url": "https://huggingface.co/spaces/nightfury/Image_Face_Upscale_Restoration-GFPGAN",
         "title": "Image Face Upscale Restoration-GFPGAN",
         "author": "nightfury",
-        "likes": 626,
+        "likes": 628,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -648,6 +648,14 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/fffiloni/KEEP-docker",
+        "title": "KEEP [docker]",
+        "author": "fffiloni",
+        "likes": 57,
+        "current_hardware": "l4x1",
+        "shortDescription": "Kalman-Inspired Feature Propagation for Video Face Super-Res"
+    },
+    {
         "url": "https://huggingface.co/spaces/KoboldAI/Koboldcpp-Tiefighter",
         "title": "Koboldcpp Tiefighter",
         "author": "KoboldAI",
@@ -659,7 +667,7 @@
         "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
         "title": "Kolors Virtual Try-On",
         "author": "Kwai-Kolors",
-        "likes": 8864,
+        "likes": 8875,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -688,26 +696,10 @@
         "shortDescription": "Track, rank and evaluate open LLMs and chatbots in French"
     },
     {
-        "url": "https://huggingface.co/spaces/Malaji71/Lector_de_Fotogramas_0",
-        "title": "Lector De Fotogramas 0",
-        "author": "Malaji71",
-        "likes": 1,
-        "current_hardware": "a10g-large",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/editing-images/ledits",
-        "title": "LEDITS",
-        "author": "editing-images",
-        "likes": 456,
-        "current_hardware": "a10g-small",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/editing-images/leditsplusplus",
         "title": "LEDITS++",
         "author": "editing-images",
-        "likes": 461,
+        "likes": 463,
         "current_hardware": "a10g-large",
         "shortDescription": "No description available"
     },
@@ -731,7 +723,7 @@
         "url": "https://huggingface.co/spaces/discord-community/LevelBot",
         "title": "LevelBot",
         "author": "discord-community",
-        "likes": 317,
+        "likes": 320,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -851,9 +843,25 @@
         "url": "https://huggingface.co/spaces/mrfakename/MeloTTS",
         "title": "MeloTTS",
         "author": "mrfakename",
-        "likes": 459,
+        "likes": 460,
         "current_hardware": "t4-small",
         "shortDescription": "Fast, efficient, & multilingual text-to-speech"
+    },
+    {
+        "url": "https://huggingface.co/spaces/fffiloni/MEMO",
+        "title": "MEMO",
+        "author": "fffiloni",
+        "likes": 38,
+        "current_hardware": "l40sx1",
+        "shortDescription": "Memory-Guided Diffusion for Expressive Talking Video Gen"
+    },
+    {
+        "url": "https://huggingface.co/spaces/arcee-ai/mergekit-gui",
+        "title": "mergekit-gui",
+        "author": "arcee-ai",
+        "likes": 282,
+        "current_hardware": "l40sx1",
+        "shortDescription": "No description available"
     },
     {
         "url": "https://huggingface.co/spaces/opendatalab/MinerU",
@@ -883,7 +891,7 @@
         "url": "https://huggingface.co/spaces/hf-accelerate/model-memory-usage",
         "title": "Model Memory Utility",
         "author": "hf-accelerate",
-        "likes": 944,
+        "likes": 945,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -896,18 +904,18 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/mol-wise/MOLx-Powered_by_MedRAX",
-        "title": "MOLx-Powered By MedRAX",
-        "author": "mol-wise",
+        "url": "https://huggingface.co/spaces/HackAI-2025/Darija-Arabic-TTS",
+        "title": "Moroccan Arabic TTS",
+        "author": "HackAI-2025",
         "likes": 1,
-        "current_hardware": "l40sx1",
-        "shortDescription": "No description available"
+        "current_hardware": "a10g-large",
+        "shortDescription": "A test for darija TTS model"
     },
     {
         "url": "https://huggingface.co/spaces/mteb/leaderboard",
         "title": "MTEB Leaderboard",
         "author": "mteb",
-        "likes": 5704,
+        "likes": 5716,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Embedding Leaderboard"
     },
@@ -915,7 +923,7 @@
         "url": "https://huggingface.co/spaces/facebook/MusicGen",
         "title": "MusicGen",
         "author": "facebook",
-        "likes": 4957,
+        "likes": 4959,
         "current_hardware": "a10g-large",
         "shortDescription": "No description available"
     },
@@ -968,6 +976,14 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/One-2-3-45/One-2-3-45",
+        "title": "One-2-3-45",
+        "author": "One-2-3-45",
+        "likes": 406,
+        "current_hardware": "l4x1",
+        "shortDescription": "No description available"
+    },
+    {
         "url": "https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard",
         "title": "Open Arabic LLM Leaderboard",
         "author": "OALL",
@@ -979,7 +995,7 @@
         "url": "https://huggingface.co/spaces/hf-audio/open_asr_leaderboard",
         "title": "Open ASR Leaderboard",
         "author": "hf-audio",
-        "likes": 835,
+        "likes": 838,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -1003,7 +1019,7 @@
         "url": "https://huggingface.co/spaces/m-ric/open_Deep-Research",
         "title": "Open Deep-Research",
         "author": "m-ric",
-        "likes": 654,
+        "likes": 655,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "OpenAI's Deep Research, but open"
     },
@@ -1043,7 +1059,7 @@
         "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
         "title": "Open LLM Leaderboard",
         "author": "open-llm-leaderboard",
-        "likes": 13094,
+        "likes": 13095,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Track, rank and evaluate open LLMs and chatbots"
     },
@@ -1067,7 +1083,7 @@
         "url": "https://huggingface.co/spaces/gabrielchua/open-notebooklm",
         "title": "Open NotebookLM",
         "author": "gabrielchua",
-        "likes": 1085,
+        "likes": 1086,
         "current_hardware": "t4-medium",
         "shortDescription": "Personalised Podcasts For All - Available in 13 Languages"
     },
@@ -1083,7 +1099,7 @@
         "url": "https://huggingface.co/spaces/eduagarcia/open_pt_llm_leaderboard",
         "title": "Open Portuguese LLM Leaderboard",
         "author": "eduagarcia",
-        "likes": 201,
+        "likes": 202,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Track, rank and evaluate open LLMs in Portuguese"
     },
@@ -1091,7 +1107,7 @@
         "url": "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard",
         "title": "Open VLM Leaderboard",
         "author": "opencompass",
-        "likes": 767,
+        "likes": 773,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "VLMEvalKit Evaluation Results Collection "
     },
@@ -1101,14 +1117,6 @@
         "author": "openai",
         "likes": 100,
         "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/m-a-p/OpenCodeInterpreter_demo",
-        "title": "OpenCodeInterpreter Demo",
-        "author": "m-a-p",
-        "likes": 68,
-        "current_hardware": "a10g-large",
         "shortDescription": "No description available"
     },
     {
@@ -1152,14 +1160,6 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/Mistral-AI-Game-Jam/ParentalControl",
-        "title": "Parental Control",
-        "author": "Mistral-AI-Game-Jam",
-        "likes": 125,
-        "current_hardware": "a10g-large",
-        "shortDescription": "Watch your baby during a remote call with your boss"
-    },
-    {
         "url": "https://huggingface.co/spaces/chunking-ai/pdf-playground",
         "title": "PDFParsersPlayground",
         "author": "chunking-ai",
@@ -1200,14 +1200,6 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/merle/PROTEIN_GENERATOR",
-        "title": "PROTEIN GENERATOR",
-        "author": "merle",
-        "likes": 104,
-        "current_hardware": "t4-small",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/simonduerr/ProteinMPNN",
         "title": "ProteinMPNN",
         "author": "simonduerr",
@@ -1227,7 +1219,7 @@
         "url": "https://huggingface.co/spaces/modelscope/ReplaceAnything",
         "title": "ReplaceAnything",
         "author": "modelscope",
-        "likes": 934,
+        "likes": 935,
         "current_hardware": "l4x1",
         "shortDescription": "No description available"
     },
@@ -1235,7 +1227,7 @@
         "url": "https://huggingface.co/spaces/ResembleAI/resemble-enhance",
         "title": "Resemble Enhance",
         "author": "ResembleAI",
-        "likes": 353,
+        "likes": 354,
         "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
@@ -1246,6 +1238,14 @@
         "likes": 37,
         "current_hardware": "t4-small",
         "shortDescription": "SOTA real-time object detection model "
+    },
+    {
+        "url": "https://huggingface.co/spaces/fffiloni/spectrogram-to-music",
+        "title": "Riffusion \u2022 Spectrogram To Music",
+        "author": "fffiloni",
+        "likes": 393,
+        "current_hardware": "t4-small",
+        "shortDescription": "Get Music from Generated Spectrogram with Diffusion"
     },
     {
         "url": "https://huggingface.co/spaces/ArkanDash/rvc-genshin-impact",
@@ -1259,7 +1259,7 @@
         "url": "https://huggingface.co/spaces/RWKV-Red-Team/RWKV-LatestSpace",
         "title": "RWKV HF Space",
         "author": "RWKV-Red-Team",
-        "likes": 26,
+        "likes": 27,
         "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
@@ -1267,7 +1267,7 @@
         "url": "https://huggingface.co/spaces/BlinkDL/RWKV-Gradio-1",
         "title": "RWKV-Gradio-1",
         "author": "BlinkDL",
-        "likes": 490,
+        "likes": 491,
         "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
@@ -1275,7 +1275,7 @@
         "url": "https://huggingface.co/spaces/BlinkDL/RWKV-Gradio-2",
         "title": "RWKV-Gradio-2",
         "author": "BlinkDL",
-        "likes": 631,
+        "likes": 632,
         "current_hardware": "t4-medium",
         "shortDescription": "No description available"
     },
@@ -1291,7 +1291,7 @@
         "url": "https://huggingface.co/spaces/vinthony/SadTalker",
         "title": "SadTalker",
         "author": "vinthony",
-        "likes": 1302,
+        "likes": 1303,
         "current_hardware": "l4x1",
         "shortDescription": "No description available"
     },
@@ -1309,22 +1309,6 @@
         "author": "sam-hq-team",
         "likes": 74,
         "current_hardware": "t4-small",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/sergiopaniego/sam_vs_sam_hq_image_comparison",
-        "title": "Sam Vs Sam Hq Image Comparison",
-        "author": "sergiopaniego",
-        "likes": 7,
-        "current_hardware": "l4x1",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/fffiloni/SAM2-Video-Predictor",
-        "title": "SAM2 Video Predictor",
-        "author": "fffiloni",
-        "likes": 95,
-        "current_hardware": "t4-medium",
         "shortDescription": "No description available"
     },
     {
@@ -1355,17 +1339,33 @@
         "url": "https://huggingface.co/spaces/facebook/seamless-streaming",
         "title": "Seamless Streaming",
         "author": "facebook",
-        "likes": 297,
+        "likes": 298,
         "current_hardware": "t4-small",
         "shortDescription": "No description available"
+    },
+    {
+        "url": "https://huggingface.co/spaces/arhanv/drum-kit-generator",
+        "title": "Semantic Spaces Demo - text2kit",
+        "author": "arhanv",
+        "likes": 1,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "generating drum kits using descriptive queries with CLAP"
     },
     {
         "url": "https://huggingface.co/spaces/Nymbo/Serverless-ImgGen-Hub",
         "title": "Serverless ImgGen Hub",
         "author": "Nymbo",
-        "likes": 311,
+        "likes": 310,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Highly hackable hub w/ Flux, SD 3.5, LoRAs, no GPUs required"
+    },
+    {
+        "url": "https://huggingface.co/spaces/HuggingFaceDG/sheets",
+        "title": "Sheets",
+        "author": "HuggingFaceDG",
+        "likes": 11,
+        "current_hardware": "cpu-xl",
+        "shortDescription": "No description available"
     },
     {
         "url": "https://huggingface.co/spaces/ariG23498/shot-categorizer-demo",
@@ -1408,19 +1408,19 @@
         "shortDescription": "Infinite-Length Film Generation"
     },
     {
-        "url": "https://huggingface.co/spaces/hysts/spaces-of-the-week",
-        "title": "Spaces of the Week",
-        "author": "hysts",
-        "likes": 50,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "Complete list of past Spaces of the week"
-    },
-    {
         "url": "https://huggingface.co/spaces/stabilityai/stable-diffusion",
         "title": "Stable Diffusion 2-1",
         "author": "stabilityai",
-        "likes": 11202,
+        "likes": 11204,
         "current_hardware": "cpu-upgrade",
+        "shortDescription": "No description available"
+    },
+    {
+        "url": "https://huggingface.co/spaces/darkstorm2150/Stable-Diffusion-Protogen-x3.4-webui",
+        "title": "Stable Diffusion Protogen x3.4 Web UI",
+        "author": "darkstorm2150",
+        "likes": 581,
+        "current_hardware": "t4-medium",
         "shortDescription": "No description available"
     },
     {
@@ -1435,7 +1435,7 @@
         "url": "https://huggingface.co/spaces/stabilityai/stable-fast-3d",
         "title": "Stable Fast 3D",
         "author": "stabilityai",
-        "likes": 1048,
+        "likes": 1049,
         "current_hardware": "l4x1",
         "shortDescription": "No description available"
     },
@@ -1443,7 +1443,7 @@
         "url": "https://huggingface.co/spaces/stabilityai/stable-point-aware-3d",
         "title": "Stable Point-Aware 3D",
         "author": "stabilityai",
-        "likes": 418,
+        "likes": 419,
         "current_hardware": "l4x1",
         "shortDescription": "No description available"
     },
@@ -1452,14 +1452,6 @@
         "title": "Stable Virtual Camera",
         "author": "stabilityai",
         "likes": 432,
-        "current_hardware": "l40sx1",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/hyz317/StdGEN",
-        "title": "StdGEN",
-        "author": "hyz317",
-        "likes": 55,
         "current_hardware": "l40sx1",
         "shortDescription": "No description available"
     },
@@ -1483,7 +1475,7 @@
         "url": "https://huggingface.co/spaces/artificialguybr/Surya-OCR",
         "title": "Surya OCR",
         "author": "artificialguybr",
-        "likes": 48,
+        "likes": 49,
         "current_hardware": "t4-medium",
         "shortDescription": "No description available"
     },
@@ -1491,7 +1483,7 @@
         "url": "https://huggingface.co/spaces/TWO/sutra-avatar-v2",
         "title": "sutra-avatar-v2",
         "author": "TWO",
-        "likes": 64,
+        "likes": 66,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -1512,10 +1504,18 @@
         "shortDescription": "Talk to Gemini using Google's multimodal API"
     },
     {
+        "url": "https://huggingface.co/spaces/fastrtc/talk-to-openai-gradio",
+        "title": "Talk to OpenAI (Gradio UI)",
+        "author": "fastrtc",
+        "likes": 4,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "Talk to OpenAI (Gradio UI)"
+    },
+    {
         "url": "https://huggingface.co/spaces/TEN-framework/ten-agent-demo",
         "title": "TEN Agent with VAD and Turn Detection",
         "author": "TEN-framework",
-        "likes": 15,
+        "likes": 16,
         "current_hardware": "l4x1",
         "shortDescription": "A Conversational Voice AI Agent powered by the TEN Framework"
     },
@@ -1547,7 +1547,7 @@
         "url": "https://huggingface.co/spaces/jbilcke-hf/tikslop",
         "title": "TikSlop",
         "author": "jbilcke-hf",
-        "likes": 302,
+        "likes": 303,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "The 100% Latent Video App"
     },
@@ -1611,17 +1611,9 @@
         "url": "https://huggingface.co/spaces/mcp-course/unit_1_quiz",
         "title": "Unit 1 Quiz - Model Context Protocol (MCP) Fundementals",
         "author": "mcp-course",
-        "likes": 5,
+        "likes": 8,
         "current_hardware": "cpu-xl",
         "shortDescription": "Test your knowledge of MCP fundamentals."
-    },
-    {
-        "url": "https://huggingface.co/spaces/Surn/UnlimitedMusicGen",
-        "title": "UnlimitedMusicGen",
-        "author": "Surn",
-        "likes": 321,
-        "current_hardware": "t4-small",
-        "shortDescription": "unlimited Audio generation with a few added features "
     },
     {
         "url": "https://huggingface.co/spaces/diffusers/unofficial-SDXL-Turbo-i2i-t2i",
@@ -1640,10 +1632,18 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/shi-labs/Versatile-Diffusion",
+        "title": "Versatile Diffusion",
+        "author": "shi-labs",
+        "likes": 409,
+        "current_hardware": "l4x1",
+        "shortDescription": "No description available"
+    },
+    {
         "url": "https://huggingface.co/spaces/openfree/Vibe-Game",
         "title": "Vibe Game",
         "author": "openfree",
-        "likes": 61,
+        "likes": 29,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Vibe-Game"
     },
@@ -1659,7 +1659,7 @@
         "url": "https://huggingface.co/spaces/lerobot/visualize_dataset",
         "title": "Visualize Dataset (v2.0+ latest dataset format)",
         "author": "lerobot",
-        "likes": 108,
+        "likes": 111,
         "current_hardware": "cpu-xl",
         "shortDescription": "No description available"
     },
@@ -1667,7 +1667,7 @@
         "url": "https://huggingface.co/spaces/fffiloni/Wan2.1-VACE-1.3B",
         "title": "Wan2.1 VACE1.3B",
         "author": "fffiloni",
-        "likes": 30,
+        "likes": 34,
         "current_hardware": "l40sx1",
         "shortDescription": "All-in-One Video Creation and Editing"
     },
@@ -1675,7 +1675,7 @@
         "url": "https://huggingface.co/spaces/openai/whisper",
         "title": "Whisper",
         "author": "openai",
-        "likes": 2254,
+        "likes": 2255,
         "current_hardware": "l40sx1",
         "shortDescription": "No description available"
     },
@@ -1688,10 +1688,18 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/flamehaze1115/Wonder3D-demo",
+        "title": "Wonder3D",
+        "author": "flamehaze1115",
+        "likes": 473,
+        "current_hardware": "l4x1",
+        "shortDescription": "No description available"
+    },
+    {
         "url": "https://huggingface.co/spaces/coqui/xtts",
         "title": "XTTS",
         "author": "coqui",
-        "likes": 2602,
+        "likes": 2603,
         "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
@@ -1725,14 +1733,6 @@
         "author": "HuggingFaceH4",
         "likes": 905,
         "current_hardware": "a100-large",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/sudo-ai/zero123plus-demo-space",
-        "title": "Zero123++ Demo Space",
-        "author": "sudo-ai",
-        "likes": 282,
-        "current_hardware": "a10g-small",
         "shortDescription": "No description available"
     },
     {
