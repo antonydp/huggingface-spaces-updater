@@ -1,13 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/spaces/tomg-group-umd/lm-watermarking",
-        "title": "A Watermark for LLMs",
-        "author": "tomg-group-umd",
-        "likes": 100,
-        "current_hardware": "a10g-large",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/fffiloni/HF-Radio",
         "title": "ACE-Step Community Radio",
         "author": "fffiloni",
@@ -59,7 +51,7 @@
         "url": "https://huggingface.co/spaces/prism-ml/Bonsai-Image-Demo",
         "title": "Bonsai Image GPU",
         "author": "prism-ml",
-        "likes": 65,
+        "likes": 67,
         "current_hardware": "l4x4",
         "shortDescription": "Run Bonsai-Image-4B models on GPU"
     },
@@ -227,16 +219,8 @@
         "url": "https://huggingface.co/spaces/ggml-org/gguf-my-repo",
         "title": "GGUF My Repo",
         "author": "ggml-org",
-        "likes": 1970,
+        "likes": 1971,
         "current_hardware": "a10g-large",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/LeeSangHoon/HierSpeech_TTS",
-        "title": "HierSpeech++ (Zero-shot TTS)",
-        "author": "LeeSangHoon",
-        "likes": 400,
-        "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
     {
@@ -251,7 +235,7 @@
         "url": "https://huggingface.co/spaces/huggingface/inference-playground",
         "title": "Inference Playground",
         "author": "huggingface",
-        "likes": 289,
+        "likes": 288,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -283,7 +267,7 @@
         "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
         "title": "Kolors Virtual Try-On",
         "author": "Kwai-Kolors",
-        "likes": 10098,
+        "likes": 10099,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -360,14 +344,6 @@
         "shortDescription": "Quick View of Samples in the MajorTOM-Core Dataset"
     },
     {
-        "url": "https://huggingface.co/spaces/XiaomiMiMo/MiMo-V2.5-ASR",
-        "title": "MiMo V2.5 ASR",
-        "author": "XiaomiMiMo",
-        "likes": 36,
-        "current_hardware": "a100-large",
-        "shortDescription": "Leading ASR models from Xiaomi MiMo"
-    },
-    {
         "url": "https://huggingface.co/spaces/XiaomiMiMo/mimo_audio_chat",
         "title": "MiMo-Audio-Chat",
         "author": "XiaomiMiMo",
@@ -387,7 +363,7 @@
         "url": "https://huggingface.co/spaces/mlx-community/mlx-my-repo",
         "title": "MLX My Repo",
         "author": "mlx-community",
-        "likes": 196,
+        "likes": 199,
         "current_hardware": "cpu-xl",
         "shortDescription": "No description available"
     },
@@ -411,7 +387,7 @@
         "url": "https://huggingface.co/spaces/OpenMOSS-Team/MOSS-TTS-v1.5",
         "title": "MOSS TTS V1.5",
         "author": "OpenMOSS-Team",
-        "likes": 22,
+        "likes": 23,
         "current_hardware": "l40sx1",
         "shortDescription": "No description available"
     },
@@ -419,7 +395,7 @@
         "url": "https://huggingface.co/spaces/OpenMOSS-Team/MOSS-SoundEffect-v2.0",
         "title": "MOSS-SoundEffect v2.0 Demo",
         "author": "OpenMOSS-Team",
-        "likes": 15,
+        "likes": 16,
         "current_hardware": "l4x1",
         "shortDescription": "Official Gradio demo for MOSS-SoundEffect-v2.0."
     },
@@ -427,7 +403,7 @@
         "url": "https://huggingface.co/spaces/mteb/leaderboard",
         "title": "MTEB Leaderboard",
         "author": "mteb",
-        "likes": 7445,
+        "likes": 7447,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Embedding Leaderboard"
     },
@@ -443,7 +419,7 @@
         "url": "https://huggingface.co/spaces/numind/NuExtract3",
         "title": "NuExtract 3",
         "author": "numind",
-        "likes": 28,
+        "likes": 30,
         "current_hardware": "a100-large",
         "shortDescription": "No description available"
     },
@@ -459,7 +435,7 @@
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 1844,
+        "likes": 1855,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
     },
@@ -475,7 +451,7 @@
         "url": "https://huggingface.co/spaces/hf-audio/open_asr_leaderboard",
         "title": "Open ASR Leaderboard",
         "author": "hf-audio",
-        "likes": 1362,
+        "likes": 1365,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -483,7 +459,7 @@
         "url": "https://huggingface.co/spaces/BAAI/open_cn_llm_leaderboard",
         "title": "Open Chinese LLM Leaderboard",
         "author": "BAAI",
-        "likes": 126,
+        "likes": 127,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -507,7 +483,7 @@
         "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
         "title": "Open LLM Leaderboard",
         "author": "open-llm-leaderboard",
-        "likes": 14000,
+        "likes": 14004,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Track, rank and evaluate open LLMs and chatbots"
     },
@@ -563,7 +539,7 @@
         "url": "https://huggingface.co/spaces/AimeeBingmouQu/ProtectBirds",
         "title": "ProtectBirds",
         "author": "AimeeBingmouQu",
-        "likes": 344,
+        "likes": 346,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Protect Birds"
     },
@@ -579,7 +555,7 @@
         "url": "https://huggingface.co/spaces/Wordercom/Qwen3-TTS",
         "title": "Qwen3-TTS Demo",
         "author": "Wordercom",
-        "likes": 8,
+        "likes": 11,
         "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
@@ -590,6 +566,14 @@
         "likes": 30,
         "current_hardware": "t4-medium",
         "shortDescription": "custom voice, voice design, and voice cloning, asr nodes."
+    },
+    {
+        "url": "https://huggingface.co/spaces/pollen-robotics/reachy-mini-search-tool",
+        "title": "Reachy Mini Search Tool",
+        "author": "pollen-robotics",
+        "likes": 3,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "Public MCP canary Space for Reachy Mini remote tools."
     },
     {
         "url": "https://huggingface.co/spaces/Roboflow/RF-DETR",
@@ -619,16 +603,8 @@
         "url": "https://huggingface.co/spaces/BlinkDL/RWKV-Gradio-2",
         "title": "RWKV-Gradio-2",
         "author": "BlinkDL",
-        "likes": 663,
+        "likes": 664,
         "current_hardware": "t4-medium",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/usm3d/S23DR2026",
-        "title": "S23DR2026",
-        "author": "usm3d",
-        "likes": 11,
-        "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
     {
@@ -712,14 +688,6 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/TTS-AGI/TTS-Arena-V2",
-        "title": "TTS Arena V2",
-        "author": "TTS-AGI",
-        "likes": 959,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "Vote on the latest TTS models!"
-    },
-    {
         "url": "https://huggingface.co/spaces/agents-course/unit1-certification-app",
         "title": "Unit 1 Certification - AI Agent Fundamentals",
         "author": "agents-course",
@@ -739,7 +707,7 @@
         "url": "https://huggingface.co/spaces/lerobot/visualize_dataset",
         "title": "Visualize Dataset (v2.0+ latest dataset format)",
         "author": "lerobot",
-        "likes": 526,
+        "likes": 527,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
