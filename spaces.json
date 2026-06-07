@@ -40,18 +40,10 @@
         "shortDescription": "Interact with the Aya family of models."
     },
     {
-        "url": "https://huggingface.co/spaces/NeuralInternet/BabyAGI",
-        "title": "Baby AGI",
-        "author": "NeuralInternet",
-        "likes": 59,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/prism-ml/Bonsai-Image-Demo",
         "title": "Bonsai Image GPU",
         "author": "prism-ml",
-        "likes": 67,
+        "likes": 68,
         "current_hardware": "l4x4",
         "shortDescription": "Run Bonsai-Image-4B models on GPU"
     },
@@ -96,14 +88,6 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/CohereLabs/command-a-reasoning",
-        "title": "Command A Reasoning",
-        "author": "CohereLabs",
-        "likes": 27,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/safetensors/convert",
         "title": "Convert to Safetensors",
         "author": "safetensors",
@@ -128,12 +112,12 @@
         "shortDescription": "DABstep Reasoning Benchmark Leaderboard"
     },
     {
-        "url": "https://huggingface.co/spaces/nllg/DeTikZify",
-        "title": "DeTikZify",
-        "author": "nllg",
-        "likes": 90,
-        "current_hardware": "l4x1",
-        "shortDescription": "Convert images and sketches into graphics programs with TikZ"
+        "url": "https://huggingface.co/spaces/SAkizuki/DanbooruSearch",
+        "title": "DanbooruSearch",
+        "author": "SAkizuki",
+        "likes": 69,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "\u57fa\u4e8e\u8bed\u4e49\u5339\u914d\u7684 Danbooru \u6807\u7b7e\u641c\u7d22\u5f15\u64ce\uff0c\u652f\u6301\u591a\u7ef4\u5339\u914d\u3001\u667a\u80fd\u5206\u8bcd\u4e0e\u5171\u73b0\u5173\u8054\u63a8\u8350\u3002"
     },
     {
         "url": "https://huggingface.co/spaces/pszemraj/document-summarization",
@@ -219,7 +203,7 @@
         "url": "https://huggingface.co/spaces/ggml-org/gguf-my-repo",
         "title": "GGUF My Repo",
         "author": "ggml-org",
-        "likes": 1971,
+        "likes": 1975,
         "current_hardware": "a10g-large",
         "shortDescription": "No description available"
     },
@@ -251,7 +235,7 @@
         "url": "https://huggingface.co/spaces/nvidia/Kimodo",
         "title": "Kimodo",
         "author": "nvidia",
-        "likes": 257,
+        "likes": 258,
         "current_hardware": "l40sx1",
         "shortDescription": "Generate high-quality motions from text prompts"
     },
@@ -267,7 +251,7 @@
         "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
         "title": "Kolors Virtual Try-On",
         "author": "Kwai-Kolors",
-        "likes": 10099,
+        "likes": 10100,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -307,7 +291,7 @@
         "url": "https://huggingface.co/spaces/discord-community/LevelBot",
         "title": "LevelBot",
         "author": "discord-community",
-        "likes": 508,
+        "likes": 510,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -347,7 +331,7 @@
         "url": "https://huggingface.co/spaces/XiaomiMiMo/mimo_audio_chat",
         "title": "MiMo-Audio-Chat",
         "author": "XiaomiMiMo",
-        "likes": 84,
+        "likes": 85,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Chat with Xiaomi MiMo-Audio using voice"
     },
@@ -371,7 +355,7 @@
         "url": "https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro",
         "title": "MMLU-Pro Leaderboard",
         "author": "TIGER-Lab",
-        "likes": 246,
+        "likes": 247,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "More advanced and challenging multi-task evaluation"
     },
@@ -387,7 +371,7 @@
         "url": "https://huggingface.co/spaces/OpenMOSS-Team/MOSS-TTS-v1.5",
         "title": "MOSS TTS V1.5",
         "author": "OpenMOSS-Team",
-        "likes": 23,
+        "likes": 26,
         "current_hardware": "l40sx1",
         "shortDescription": "No description available"
     },
@@ -403,7 +387,7 @@
         "url": "https://huggingface.co/spaces/mteb/leaderboard",
         "title": "MTEB Leaderboard",
         "author": "mteb",
-        "likes": 7447,
+        "likes": 7448,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Embedding Leaderboard"
     },
@@ -435,7 +419,7 @@
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 1855,
+        "likes": 1870,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
     },
@@ -451,7 +435,7 @@
         "url": "https://huggingface.co/spaces/hf-audio/open_asr_leaderboard",
         "title": "Open ASR Leaderboard",
         "author": "hf-audio",
-        "likes": 1365,
+        "likes": 1364,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -483,7 +467,7 @@
         "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
         "title": "Open LLM Leaderboard",
         "author": "open-llm-leaderboard",
-        "likes": 14004,
+        "likes": 14005,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Track, rank and evaluate open LLMs and chatbots"
     },
@@ -499,7 +483,7 @@
         "url": "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard",
         "title": "Open VLM Leaderboard",
         "author": "opencompass",
-        "likes": 1016,
+        "likes": 1018,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "VLMEvalKit Evaluation Results Collection "
     },
@@ -684,6 +668,22 @@
         "title": "Trackers",
         "author": "Roboflow",
         "likes": 80,
+        "current_hardware": "t4-small",
+        "shortDescription": "No description available"
+    },
+    {
+        "url": "https://huggingface.co/spaces/atasoglu/trendyol-tts-demo",
+        "title": "Trendyol TTS Demo",
+        "author": "atasoglu",
+        "likes": 1,
+        "current_hardware": "t4-small",
+        "shortDescription": "Trendyol Turkish Text-to-Speech Demo"
+    },
+    {
+        "url": "https://huggingface.co/spaces/AlicanKiraz0/Trendyol-TTS-Space",
+        "title": "Trendyol-TTS",
+        "author": "AlicanKiraz0",
+        "likes": 7,
         "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
