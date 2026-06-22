@@ -27,7 +27,7 @@
         "url": "https://huggingface.co/spaces/CohereLabs/aya_expanse",
         "title": "Aya Models",
         "author": "CohereLabs",
-        "likes": 336,
+        "likes": 337,
         "current_hardware": "t4-small",
         "shortDescription": "Interact with the Aya family of models."
     },
@@ -128,6 +128,22 @@
         "shortDescription": "Generate any application by Vibe Coding it"
     },
     {
+        "url": "https://huggingface.co/spaces/nllg/DeTikZify",
+        "title": "DeTikZify",
+        "author": "nllg",
+        "likes": 90,
+        "current_hardware": "l4x1",
+        "shortDescription": "Convert images and sketches into graphics programs with TikZ"
+    },
+    {
+        "url": "https://huggingface.co/spaces/fffiloni/DimensionX",
+        "title": "DimensionX",
+        "author": "fffiloni",
+        "likes": 381,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "3D/4D Scenes from a Single Image w/ Controllable Video Diff"
+    },
+    {
         "url": "https://huggingface.co/spaces/pszemraj/document-summarization",
         "title": "Document Summarization",
         "author": "pszemraj",
@@ -179,7 +195,7 @@
         "url": "https://huggingface.co/spaces/treble-technologies/ffasr",
         "title": "FFASR Leaderboard",
         "author": "treble-technologies",
-        "likes": 28,
+        "likes": 29,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Far-Field ASR \u2014 clean / noisy / reverberant benchmark"
     },
@@ -211,7 +227,7 @@
         "url": "https://huggingface.co/spaces/ggml-org/gguf-my-repo",
         "title": "GGUF My Repo",
         "author": "ggml-org",
-        "likes": 1989,
+        "likes": 1990,
         "current_hardware": "a10g-large",
         "shortDescription": "No description available"
     },
@@ -304,14 +320,6 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/Major-TOM/MajorTOM-Core-Viewer",
-        "title": "Major TOM Viewer",
-        "author": "Major-TOM",
-        "likes": 84,
-        "current_hardware": "l4x1",
-        "shortDescription": "Quick View of Samples in the MajorTOM-Core Dataset"
-    },
-    {
         "url": "https://huggingface.co/spaces/smolagents/ml-intern",
         "title": "ML Intern",
         "author": "smolagents",
@@ -347,15 +355,23 @@
         "url": "https://huggingface.co/spaces/mteb/leaderboard",
         "title": "MTEB Leaderboard",
         "author": "mteb",
-        "likes": 7490,
+        "likes": 7494,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Embedding Leaderboard"
+    },
+    {
+        "url": "https://huggingface.co/spaces/BIGJUTT/my_pi_agent",
+        "title": "My Pi Agent",
+        "author": "BIGJUTT",
+        "likes": 1,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "No description available"
     },
     {
         "url": "https://huggingface.co/spaces/CohereLabs/North-Mini-Code-1.0",
         "title": "North Mini Code Demo",
         "author": "CohereLabs",
-        "likes": 31,
+        "likes": 32,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -379,7 +395,7 @@
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 1979,
+        "likes": 1991,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
     },
@@ -477,14 +493,6 @@
         "author": "huggingface",
         "likes": 229,
         "current_hardware": "cpu-xl",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/LeMaterial/phase_diagram",
-        "title": "Phase Diagram",
-        "author": "LeMaterial",
-        "likes": 9,
-        "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
     {
@@ -648,35 +656,11 @@
         "shortDescription": "Test your knowledge of the Agent fundamentals."
     },
     {
-        "url": "https://huggingface.co/spaces/fffiloni/VideoRetalking",
-        "title": "VideoRetalking",
-        "author": "fffiloni",
-        "likes": 334,
-        "current_hardware": "t4-medium",
-        "shortDescription": "Audio-based Lip Sync for Talking Head Video Editing"
-    },
-    {
         "url": "https://huggingface.co/spaces/lerobot/visualize_dataset",
         "title": "Visualize Dataset (v2.0+ latest dataset format)",
         "author": "lerobot",
         "likes": 546,
         "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/nvidia/PhysicalAI-Robotics-VoMP-Demo",
-        "title": "VoMP",
-        "author": "nvidia",
-        "likes": 10,
-        "current_hardware": "a100-large",
-        "shortDescription": "Volumetric physics materials for interactive worlds"
-    },
-    {
-        "url": "https://huggingface.co/spaces/vumichien/Whisper_speaker_diarization",
-        "title": "Whisper Speaker Diarization",
-        "author": "vumichien",
-        "likes": 421,
-        "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
     {
