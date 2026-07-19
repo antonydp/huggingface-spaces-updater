@@ -16,6 +16,14 @@
         "shortDescription": "KWK AI/ML Capstone \u00b7 Camp 2.7 \u00b7 Group C2 \u00b7 Summer 2026"
     },
     {
+        "url": "https://huggingface.co/spaces/milicka/ai-text-detector",
+        "title": "Ai Text Detector",
+        "author": "milicka",
+        "likes": 1,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "Human / AI text classifier"
+    },
+    {
         "url": "https://huggingface.co/spaces/radames/ai-town",
         "title": "AI Town on HuggingFace",
         "author": "radames",
@@ -43,7 +51,7 @@
         "url": "https://huggingface.co/spaces/HuggingFaceM4/hugging-voice",
         "title": "An Open Realtime Voice You Can Actually Run Yourself",
         "author": "HuggingFaceM4",
-        "likes": 47,
+        "likes": 48,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -75,9 +83,17 @@
         "url": "https://huggingface.co/spaces/prism-ml/Bonsai-Image-Demo",
         "title": "Bonsai Image GPU",
         "author": "prism-ml",
-        "likes": 96,
+        "likes": 97,
         "current_hardware": "l4x1",
         "shortDescription": "Run Bonsai-Image-4B models on GPU"
+    },
+    {
+        "url": "https://huggingface.co/spaces/burtenshaw/browsergym-v2",
+        "title": "BrowserGym Environment Server",
+        "author": "burtenshaw",
+        "likes": 9,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "No description available"
     },
     {
         "url": "https://huggingface.co/spaces/CohereLabs/c4ai-command",
@@ -91,7 +107,7 @@
         "url": "https://huggingface.co/spaces/mlabonne/chessllm",
         "title": "Chess LLM",
         "author": "mlabonne",
-        "likes": 72,
+        "likes": 73,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -152,14 +168,6 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/competitions/create",
-        "title": "Create",
-        "author": "competitions",
-        "likes": 16,
-        "current_hardware": "cpu-xl",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/smolagents/computer-use-agent",
         "title": "CUA - Computer Use Agent 2.0",
         "author": "smolagents",
@@ -198,6 +206,14 @@
         "likes": 16617,
         "current_hardware": "cpu-xl",
         "shortDescription": "Generate any application by Vibe Coding it"
+    },
+    {
+        "url": "https://huggingface.co/spaces/fffiloni/DimensionX",
+        "title": "DimensionX",
+        "author": "fffiloni",
+        "likes": 381,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "3D/4D Scenes from a Single Image w/ Controllable Video Diff"
     },
     {
         "url": "https://huggingface.co/spaces/pszemraj/document-summarization",
@@ -256,18 +272,18 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/Aakash0404/football-backend",
-        "title": "Football Backend",
-        "author": "Aakash0404",
+        "url": "https://huggingface.co/spaces/hmgill/Matrix-Fossil-Agent",
+        "title": "Fossil Agent",
+        "author": "hmgill",
         "likes": 1,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
+        "current_hardware": "t4-small",
+        "shortDescription": "Fossil photographs to a 3D mesh, via SAM3 and Meshy."
     },
     {
         "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
         "title": "GAIA Leaderboard",
         "author": "gaia-benchmark",
-        "likes": 613,
+        "likes": 614,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -299,7 +315,7 @@
         "url": "https://huggingface.co/spaces/huggingface/inference-playground",
         "title": "Inference Playground",
         "author": "huggingface",
-        "likes": 308,
+        "likes": 310,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -307,7 +323,7 @@
         "url": "https://huggingface.co/spaces/iol-ai-challenge/iol-ai-2026",
         "title": "IOL-AI Challenge 2026",
         "author": "iol-ai-challenge",
-        "likes": 16,
+        "likes": 17,
         "current_hardware": "t4-medium",
         "shortDescription": "No description available"
     },
@@ -334,14 +350,6 @@
         "likes": 103,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/la-leaderboard/la-leaderboard",
-        "title": "La Leaderboard",
-        "author": "la-leaderboard",
-        "likes": 76,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "Evaluate open LLMs in the languages of LATAM and Spain."
     },
     {
         "url": "https://huggingface.co/spaces/fr-gouv-coordination-ia/llm_leaderboard_fr",
@@ -387,7 +395,7 @@
         "url": "https://huggingface.co/spaces/ICML-2026-agent-repro/logbook-judge",
         "title": "Logbook Judge",
         "author": "ICML-2026-agent-repro",
-        "likes": 3,
+        "likes": 5,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -451,7 +459,7 @@
         "url": "https://huggingface.co/spaces/mteb/leaderboard",
         "title": "MTEB Leaderboard",
         "author": "mteb",
-        "likes": 7571,
+        "likes": 7576,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Embedding Leaderboard"
     },
@@ -467,7 +475,7 @@
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 2152,
+        "likes": 2161,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
     },
@@ -568,28 +576,12 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/ld04080106/PopMelodyGen-Demo",
-        "title": "PopMelodyGen",
-        "author": "ld04080106",
-        "likes": 1,
-        "current_hardware": "t4-small",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/AimeeBingmouQu/ProtectBirds",
         "title": "ProtectBirds",
         "author": "AimeeBingmouQu",
         "likes": 891,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Protect Birds"
-    },
-    {
-        "url": "https://huggingface.co/spaces/merle/PROTEIN_GENERATOR",
-        "title": "PROTEIN GENERATOR",
-        "author": "merle",
-        "likes": 108,
-        "current_hardware": "t4-small",
-        "shortDescription": "No description available"
     },
     {
         "url": "https://huggingface.co/spaces/qimma/leaderboard",
@@ -675,7 +667,7 @@
         "url": "https://huggingface.co/spaces/prism-ml/Ternary-Bonsai-27B-Demo",
         "title": "Ternary Bonsai 27B API Demo",
         "author": "prism-ml",
-        "likes": 11,
+        "likes": 15,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -691,7 +683,7 @@
         "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
         "title": "The Smol Training Playbook",
         "author": "HuggingFaceTB",
-        "likes": 3241,
+        "likes": 3243,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "The secrets to building world-class LLMs"
     },
@@ -750,6 +742,14 @@
         "likes": 321,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Test your knowledge of the Agent fundamentals."
+    },
+    {
+        "url": "https://huggingface.co/spaces/fffiloni/VideoRetalking",
+        "title": "VideoRetalking",
+        "author": "fffiloni",
+        "likes": 334,
+        "current_hardware": "t4-medium",
+        "shortDescription": "Audio-based Lip Sync for Talking Head Video Editing"
     },
     {
         "url": "https://huggingface.co/spaces/lerobot/visualize_dataset",
