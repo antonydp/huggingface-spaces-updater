@@ -40,14 +40,6 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/AutoArk-AI/Ark-ASR-0.6B",
-        "title": "Ark ASR 0.6B",
-        "author": "AutoArk-AI",
-        "likes": 15,
-        "current_hardware": "t4-small",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/CohereLabs/aya_expanse",
         "title": "Aya Models",
         "author": "CohereLabs",
@@ -59,7 +51,7 @@
         "url": "https://huggingface.co/spaces/prism-ml/Bonsai-Image-Demo",
         "title": "Bonsai Image GPU",
         "author": "prism-ml",
-        "likes": 105,
+        "likes": 107,
         "current_hardware": "l4x1",
         "shortDescription": "Run Bonsai-Image-4B models on GPU"
     },
@@ -144,6 +136,14 @@
         "shortDescription": "DABstep Reasoning Benchmark Leaderboard"
     },
     {
+        "url": "https://huggingface.co/spaces/fffiloni/dalle-mini-reboot",
+        "title": "DALL\u00b7E mini JAX Docker",
+        "author": "fffiloni",
+        "likes": 23,
+        "current_hardware": "t4-small",
+        "shortDescription": "No description available"
+    },
+    {
         "url": "https://huggingface.co/spaces/SAkizuki/DanbooruSearch",
         "title": "DanbooruSearch",
         "author": "SAkizuki",
@@ -158,6 +158,14 @@
         "likes": 16617,
         "current_hardware": "cpu-xl",
         "shortDescription": "Generate any application by Vibe Coding it"
+    },
+    {
+        "url": "https://huggingface.co/spaces/fffiloni/DimensionX",
+        "title": "DimensionX",
+        "author": "fffiloni",
+        "likes": 381,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "3D/4D Scenes from a Single Image w/ Controllable Video Diff"
     },
     {
         "url": "https://huggingface.co/spaces/pszemraj/document-summarization",
@@ -182,6 +190,14 @@
         "likes": 83,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
+    },
+    {
+        "url": "https://huggingface.co/spaces/reasoning-course/fundamentals_exam",
+        "title": "Exam 1 - Fundamentals of GRPO",
+        "author": "reasoning-course",
+        "likes": 13,
+        "current_hardware": "cpu-xl",
+        "shortDescription": "Test your knowledge of GRPO, TRL, RL, and Deepseek R1."
     },
     {
         "url": "https://huggingface.co/spaces/exbert-project/exbert",
@@ -227,16 +243,8 @@
         "url": "https://huggingface.co/spaces/ggml-org/gguf-my-repo",
         "title": "GGUF My Repo",
         "author": "ggml-org",
-        "likes": 2031,
+        "likes": 2033,
         "current_hardware": "a10g-large",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/LeeSangHoon/HierSpeech_TTS",
-        "title": "HierSpeech++ (Zero-shot TTS)",
-        "author": "LeeSangHoon",
-        "likes": 407,
-        "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
     {
@@ -251,7 +259,7 @@
         "url": "https://huggingface.co/spaces/iol-ai-challenge/iol-ai-2026",
         "title": "IOL-AI Challenge 2026",
         "author": "iol-ai-challenge",
-        "likes": 18,
+        "likes": 19,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -267,7 +275,7 @@
         "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
         "title": "Kolors Virtual Try-On",
         "author": "Kwai-Kolors",
-        "likes": 10138,
+        "likes": 10139,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -323,7 +331,7 @@
         "url": "https://huggingface.co/spaces/ICML-2026-agent-repro/logbook-judge",
         "title": "Logbook Judge",
         "author": "ICML-2026-agent-repro",
-        "likes": 8,
+        "likes": 9,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -379,7 +387,7 @@
         "url": "https://huggingface.co/spaces/mteb/leaderboard",
         "title": "MTEB Leaderboard",
         "author": "mteb",
-        "likes": 7585,
+        "likes": 7588,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Embedding Leaderboard"
     },
@@ -400,14 +408,6 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/numind/NuExtract3",
-        "title": "NuExtract 3",
-        "author": "numind",
-        "likes": 35,
-        "current_hardware": "a100-large",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/modelscope/old_photo_restoration",
         "title": "Old Photo Restoration",
         "author": "modelscope",
@@ -419,7 +419,7 @@
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 2201,
+        "likes": 2207,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
     },
@@ -467,7 +467,7 @@
         "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
         "title": "Open LLM Leaderboard",
         "author": "open-llm-leaderboard",
-        "likes": 14056,
+        "likes": 14058,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Track, rank and evaluate open LLMs and chatbots"
     },
@@ -523,9 +523,17 @@
         "url": "https://huggingface.co/spaces/FINAL-Bench/POCKET-35B-CPU",
         "title": "POCKET vs Bonsai \u00b7 CPU",
         "author": "FINAL-Bench",
-        "likes": 27,
+        "likes": 30,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "BONSAI vs POCKET \u2014 35B MoE out-runs the top 1-bit 27B on CPU"
+    },
+    {
+        "url": "https://huggingface.co/spaces/FINAL-Bench/POCKET-26B-CPU",
+        "title": "POCKET-26B vs Bonsai \u00b7 CPU (Gemma4-based)",
+        "author": "FINAL-Bench",
+        "likes": 26,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "BONSAI vs POCKET \u2014 26B Gemma4 MoE out-runs a 27B on CPU"
     },
     {
         "url": "https://huggingface.co/spaces/AimeeBingmouQu/ProtectBirds",
@@ -611,7 +619,7 @@
         "url": "https://huggingface.co/spaces/prism-ml/Ternary-Bonsai-27B-Demo",
         "title": "Ternary Bonsai 27B API Demo",
         "author": "prism-ml",
-        "likes": 24,
+        "likes": 25,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -627,7 +635,7 @@
         "url": "https://huggingface.co/spaces/HuggingFaceFW/finephrase",
         "title": "The Synthetic Data Playbook: Generating Trillions of the Finest Tokens",
         "author": "HuggingFaceFW",
-        "likes": 266,
+        "likes": 267,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -680,10 +688,18 @@
         "shortDescription": "Test your knowledge of the Agent fundamentals."
     },
     {
+        "url": "https://huggingface.co/spaces/fffiloni/VideoRetalking",
+        "title": "VideoRetalking",
+        "author": "fffiloni",
+        "likes": 334,
+        "current_hardware": "t4-medium",
+        "shortDescription": "Audio-based Lip Sync for Talking Head Video Editing"
+    },
+    {
         "url": "https://huggingface.co/spaces/lerobot/visualize_dataset",
         "title": "Visualize Dataset (v2.0+ latest dataset format)",
         "author": "lerobot",
-        "likes": 596,
+        "likes": 597,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -694,6 +710,14 @@
         "likes": 74,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "CPU powered, low RTF, emotional, multilingual TTS"
+    },
+    {
+        "url": "https://huggingface.co/spaces/yourbench/advanced",
+        "title": "YourBench",
+        "author": "yourbench",
+        "likes": 45,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "Generate custom evaluations from your data easily!"
     },
     {
         "url": "https://huggingface.co/spaces/enzostvs/hub-api-playground",
