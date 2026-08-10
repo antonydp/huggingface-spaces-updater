@@ -1,13 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/spaces/FINAL-Bench/Aether-Sovereign-AI",
-        "title": "Aether-7B-5Attn \u2014 100% Open-source Foundation Model: Sovereign AI",
-        "author": "FINAL-Bench",
-        "likes": 34,
-        "current_hardware": "t4-medium",
-        "shortDescription": "100% open-source sovereign foundation model (Apache-2.0)"
-    },
-    {
         "url": "https://huggingface.co/spaces/radames/ai-town",
         "title": "AI Town on HuggingFace",
         "author": "radames",
@@ -35,7 +27,7 @@
         "url": "https://huggingface.co/spaces/Audio8/Audio8-TTS-Preview-0.6b",
         "title": "Audio8 TTS Preview 0.6B",
         "author": "Audio8",
-        "likes": 18,
+        "likes": 21,
         "current_hardware": "a10g-small",
         "shortDescription": "No description available"
     },
@@ -77,14 +69,6 @@
         "author": "CohereLabs",
         "likes": 123,
         "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/terrapretapermaculture/ControlNet-v1-1-D",
-        "title": "ControlNet V1.1",
-        "author": "terrapretapermaculture",
-        "likes": 1,
-        "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
     {
@@ -203,7 +187,7 @@
         "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
         "title": "GAIA Leaderboard",
         "author": "gaia-benchmark",
-        "likes": 618,
+        "likes": 619,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -224,6 +208,22 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/LeeSangHoon/HierSpeech_TTS",
+        "title": "HierSpeech++ (Zero-shot TTS)",
+        "author": "LeeSangHoon",
+        "likes": 408,
+        "current_hardware": "t4-small",
+        "shortDescription": "No description available"
+    },
+    {
+        "url": "https://huggingface.co/spaces/YuXingyao/HoLa-BRep",
+        "title": "HoLa-BRep",
+        "author": "YuXingyao",
+        "likes": 30,
+        "current_hardware": "t4-small",
+        "shortDescription": "No description available"
+    },
+    {
         "url": "https://huggingface.co/spaces/huggingface/inference-playground",
         "title": "Inference Playground",
         "author": "huggingface",
@@ -235,7 +235,7 @@
         "url": "https://huggingface.co/spaces/nvidia/Kimodo",
         "title": "Kimodo",
         "author": "nvidia",
-        "likes": 290,
+        "likes": 291,
         "current_hardware": "l40sx1",
         "shortDescription": "Generate high-quality motions from text prompts"
     },
@@ -243,15 +243,7 @@
         "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
         "title": "Kolors Virtual Try-On",
         "author": "Kwai-Kolors",
-        "likes": 10152,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/cin-model/kotaemon",
-        "title": "Kotaemon Papers",
-        "author": "cin-model",
-        "likes": 14,
+        "likes": 10153,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -315,7 +307,7 @@
         "url": "https://huggingface.co/spaces/mlx-community/mlx-my-repo",
         "title": "MLX My Repo",
         "author": "mlx-community",
-        "likes": 206,
+        "likes": 207,
         "current_hardware": "cpu-xl",
         "shortDescription": "No description available"
     },
@@ -368,6 +360,14 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/numind/NuExtract3",
+        "title": "NuExtract 3",
+        "author": "numind",
+        "likes": 45,
+        "current_hardware": "a100-large",
+        "shortDescription": "No description available"
+    },
+    {
         "url": "https://huggingface.co/spaces/modelscope/old_photo_restoration",
         "title": "Old Photo Restoration",
         "author": "modelscope",
@@ -379,9 +379,17 @@
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 2342,
+        "likes": 2346,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
+    },
+    {
+        "url": "https://huggingface.co/spaces/facebook/omnisealbench",
+        "title": "Omniseal Leaderboard",
+        "author": "facebook",
+        "likes": 5,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "Leaderboard for watermarking models"
     },
     {
         "url": "https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard",
@@ -395,7 +403,7 @@
         "url": "https://huggingface.co/spaces/hf-audio/open_asr_leaderboard",
         "title": "Open ASR Leaderboard",
         "author": "hf-audio",
-        "likes": 1422,
+        "likes": 1423,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -478,22 +486,6 @@
         "likes": 229,
         "current_hardware": "cpu-xl",
         "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/FINAL-Bench/POCKET-35B-CPU",
-        "title": "POCKET vs Bonsai \u00b7 CPU",
-        "author": "FINAL-Bench",
-        "likes": 40,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "BONSAI vs POCKET \u2014 35B MoE out-runs the top 1-bit 27B on CPU"
-    },
-    {
-        "url": "https://huggingface.co/spaces/FINAL-Bench/POCKET-26B-CPU",
-        "title": "POCKET-26B vs Bonsai \u00b7 CPU (Gemma4-based)",
-        "author": "FINAL-Bench",
-        "likes": 46,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "BONSAI vs POCKET \u2014 26B Gemma4 MoE out-runs a 27B on CPU"
     },
     {
         "url": "https://huggingface.co/spaces/davanstrien/prelinger-moments-space",
@@ -627,7 +619,7 @@
         "url": "https://huggingface.co/spaces/Roboflow/Trackers",
         "title": "Trackers",
         "author": "Roboflow",
-        "likes": 82,
+        "likes": 83,
         "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
@@ -659,17 +651,9 @@
         "url": "https://huggingface.co/spaces/microsoft/vibevoice-asr-bitnet-demo",
         "title": "VibeVoice ASR BitNet",
         "author": "microsoft",
-        "likes": 33,
+        "likes": 34,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Multilingual CPU-only ASR with a 1.58-bit BitNet decoder"
-    },
-    {
-        "url": "https://huggingface.co/spaces/fffiloni/VideoRetalking",
-        "title": "VideoRetalking",
-        "author": "fffiloni",
-        "likes": 337,
-        "current_hardware": "t4-medium",
-        "shortDescription": "Audio-based Lip Sync for Talking Head Video Editing"
     },
     {
         "url": "https://huggingface.co/spaces/lerobot/visualize_dataset",
