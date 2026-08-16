@@ -19,7 +19,7 @@
         "url": "https://huggingface.co/spaces/HuggingFaceM4/hugging-voice",
         "title": "An Open Realtime Voice You Can Actually Run Yourself",
         "author": "HuggingFaceM4",
-        "likes": 58,
+        "likes": 59,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -27,7 +27,7 @@
         "url": "https://huggingface.co/spaces/Audio8/Audio8-TTS-Preview-0.6b",
         "title": "Audio8 TTS Preview 0.6B",
         "author": "Audio8",
-        "likes": 44,
+        "likes": 46,
         "current_hardware": "a10g-small",
         "shortDescription": "No description available"
     },
@@ -72,6 +72,14 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/laion/CoCa",
+        "title": "CoCa",
+        "author": "laion",
+        "likes": 126,
+        "current_hardware": "t4-medium",
+        "shortDescription": "No description available"
+    },
+    {
         "url": "https://huggingface.co/spaces/CohereLabs/cohere-transcribe-03-2026",
         "title": "Cohere Multilingual ASR",
         "author": "CohereLabs",
@@ -99,8 +107,16 @@
         "url": "https://huggingface.co/spaces/nvidia/Cosmos3-Action-Viewer",
         "title": "Cosmos3 Action Viewer",
         "author": "nvidia",
-        "likes": 31,
+        "likes": 32,
         "current_hardware": "l40sx1",
+        "shortDescription": "No description available"
+    },
+    {
+        "url": "https://huggingface.co/spaces/nikigoli/countgd",
+        "title": "CountGD_Multi-Modal_Open-World_Counting",
+        "author": "nikigoli",
+        "likes": 124,
+        "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
     {
@@ -115,7 +131,7 @@
         "url": "https://huggingface.co/spaces/adyen/DABstep",
         "title": "DABstep Leaderboard",
         "author": "adyen",
-        "likes": 102,
+        "likes": 103,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "DABstep Reasoning Benchmark Leaderboard"
     },
@@ -123,17 +139,9 @@
         "url": "https://huggingface.co/spaces/SAkizuki/DanbooruSearch",
         "title": "DanbooruSearch",
         "author": "SAkizuki",
-        "likes": 123,
+        "likes": 124,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "\u57fa\u4e8e\u8bed\u4e49\u5339\u914d\u7684 Danbooru \u6807\u7b7e\u641c\u7d22\u5f15\u64ce\uff0c\u652f\u6301\u591a\u7ef4\u5339\u914d\u3001\u667a\u80fd\u5206\u8bcd\u4e0e\u5171\u73b0\u5173\u8054\u63a8\u8350\u3002"
-    },
-    {
-        "url": "https://huggingface.co/spaces/librarian-bots/dataset-tldr",
-        "title": "Dataset TLDR",
-        "author": "librarian-bots",
-        "likes": 7,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
     },
     {
         "url": "https://huggingface.co/spaces/enzostvs/deepsite",
@@ -150,14 +158,6 @@
         "likes": 75,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "text2text models for document summarization"
-    },
-    {
-        "url": "https://huggingface.co/spaces/jingwei-xu-00/eccv2026-cad-challenge",
-        "title": "ECCV 2026 CAD Challenge",
-        "author": "jingwei-xu-00",
-        "likes": 6,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
     },
     {
         "url": "https://huggingface.co/spaces/abidlabs/Echocardiogram-Segmentation",
@@ -235,7 +235,7 @@
         "url": "https://huggingface.co/spaces/ggml-org/gguf-my-repo",
         "title": "GGUF My Repo",
         "author": "ggml-org",
-        "likes": 2060,
+        "likes": 2064,
         "current_hardware": "a10g-large",
         "shortDescription": "No description available"
     },
@@ -331,7 +331,7 @@
         "url": "https://huggingface.co/spaces/mlx-community/mlx-my-repo",
         "title": "MLX My Repo",
         "author": "mlx-community",
-        "likes": 209,
+        "likes": 210,
         "current_hardware": "cpu-xl",
         "shortDescription": "No description available"
     },
@@ -376,14 +376,6 @@
         "shortDescription": "Embedding Leaderboard"
     },
     {
-        "url": "https://huggingface.co/spaces/fffiloni/Music-To-Lyrics",
-        "title": "Music To Lyrics",
-        "author": "fffiloni",
-        "likes": 42,
-        "current_hardware": "t4-small",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/nvidia/nemotron-labs-audio-visual-flamingo",
         "title": "Nemotron-Labs-Audio-Visual Flamingo",
         "author": "nvidia",
@@ -403,7 +395,7 @@
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 2376,
+        "likes": 2378,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
     },
@@ -451,7 +443,7 @@
         "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
         "title": "Open LLM Leaderboard",
         "author": "open-llm-leaderboard",
-        "likes": 14074,
+        "likes": 14075,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Track, rank and evaluate open LLMs and chatbots"
     },
@@ -536,18 +528,18 @@
         "shortDescription": "SOTA real-time object detection model "
     },
     {
-        "url": "https://huggingface.co/spaces/Barometr/rukallama-v11-demo",
-        "title": "RUKALLAMA V11",
-        "author": "Barometr",
-        "likes": 10,
-        "current_hardware": "t4-small",
-        "shortDescription": "\u0420\u0443\u0441\u0441\u043a\u0430\u044f KAN-LLM 853M \u2014 \u0436\u0438\u0432\u043e\u0439 \u0442\u0451\u043f\u043b\u044b\u0439 \u0432\u0435\u0431-\u0447\u0430\u0442"
-    },
-    {
         "url": "https://huggingface.co/spaces/Barometr/rukallama-v11-demo-3",
         "title": "RUKALLAMA V11",
         "author": "Barometr",
         "likes": 2,
+        "current_hardware": "t4-small",
+        "shortDescription": "\u0420\u0443\u0441\u0441\u043a\u0430\u044f KAN-LLM 853M \u2014 \u0436\u0438\u0432\u043e\u0439 \u0442\u0451\u043f\u043b\u044b\u0439 \u0432\u0435\u0431-\u0447\u0430\u0442"
+    },
+    {
+        "url": "https://huggingface.co/spaces/Barometr/rukallama-v11-demo",
+        "title": "RUKALLAMA V11",
+        "author": "Barometr",
+        "likes": 11,
         "current_hardware": "t4-small",
         "shortDescription": "\u0420\u0443\u0441\u0441\u043a\u0430\u044f KAN-LLM 853M \u2014 \u0436\u0438\u0432\u043e\u0439 \u0442\u0451\u043f\u043b\u044b\u0439 \u0432\u0435\u0431-\u0447\u0430\u0442"
     },
@@ -675,9 +667,17 @@
         "url": "https://huggingface.co/spaces/microsoft/vibevoice-asr-bitnet-demo",
         "title": "VibeVoice ASR BitNet",
         "author": "microsoft",
-        "likes": 34,
+        "likes": 36,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Multilingual CPU-only ASR with a 1.58-bit BitNet decoder"
+    },
+    {
+        "url": "https://huggingface.co/spaces/fffiloni/VideoRetalking",
+        "title": "VideoRetalking",
+        "author": "fffiloni",
+        "likes": 337,
+        "current_hardware": "t4-medium",
+        "shortDescription": "Audio-based Lip Sync for Talking Head Video Editing"
     },
     {
         "url": "https://huggingface.co/spaces/lerobot/visualize_dataset",
