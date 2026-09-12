@@ -64,19 +64,19 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/mctanay/chrk-designer",
-        "title": "CHRK Mpro Analog Designer",
-        "author": "mctanay",
-        "likes": 1,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT",
         "title": "ChuanhuChatGPT",
         "author": "JohnSmith9982",
         "likes": 922,
         "current_hardware": "cpu-upgrade",
+        "shortDescription": "No description available"
+    },
+    {
+        "url": "https://huggingface.co/spaces/laion/CoCa",
+        "title": "CoCa",
+        "author": "laion",
+        "likes": 126,
+        "current_hardware": "t4-medium",
         "shortDescription": "No description available"
     },
     {
@@ -93,22 +93,6 @@
         "author": "CohereLabs",
         "likes": 22,
         "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/safetensors/convert",
-        "title": "Convert to Safetensors",
-        "author": "safetensors",
-        "likes": 267,
-        "current_hardware": "cpu-xl",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/nikigoli/countgd",
-        "title": "CountGD_Multi-Modal_Open-World_Counting",
-        "author": "nikigoli",
-        "likes": 125,
-        "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
     {
@@ -227,7 +211,7 @@
         "url": "https://huggingface.co/spaces/ggml-org/gguf-my-repo",
         "title": "GGUF My Repo",
         "author": "ggml-org",
-        "likes": 2084,
+        "likes": 2085,
         "current_hardware": "a10g-large",
         "shortDescription": "No description available"
     },
@@ -243,25 +227,9 @@
         "url": "https://huggingface.co/spaces/multimodalart/h3-acceleration-arena",
         "title": "H3 Acceleration Arena",
         "author": "multimodalart",
-        "likes": 91,
+        "likes": 94,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Blind A/B ranking of MiniMax-H3 acceleration variants"
-    },
-    {
-        "url": "https://huggingface.co/spaces/HuggingFaceHarness/Open-Harness-Leaderboard",
-        "title": "Harbor-HF Control",
-        "author": "HuggingFaceHarness",
-        "likes": 1,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/LeeSangHoon/HierSpeech_TTS",
-        "title": "HierSpeech++ (Zero-shot TTS)",
-        "author": "LeeSangHoon",
-        "likes": 408,
-        "current_hardware": "t4-small",
-        "shortDescription": "No description available"
     },
     {
         "url": "https://huggingface.co/spaces/YuXingyao/HoLa-BRep",
@@ -291,7 +259,7 @@
         "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
         "title": "Kolors Virtual Try-On",
         "author": "Kwai-Kolors",
-        "likes": 10173,
+        "likes": 10174,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -371,7 +339,7 @@
         "url": "https://huggingface.co/spaces/TIGER-Lab/MMEB-Leaderboard",
         "title": "MMEB Leaderboard",
         "author": "TIGER-Lab",
-        "likes": 130,
+        "likes": 131,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "The massive multimodal embedding benchmark"
     },
@@ -403,7 +371,7 @@
         "url": "https://huggingface.co/spaces/mteb/leaderboard",
         "title": "MTEB Leaderboard",
         "author": "mteb",
-        "likes": 7661,
+        "likes": 7665,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Embedding Leaderboard"
     },
@@ -411,7 +379,7 @@
         "url": "https://huggingface.co/spaces/NbAiLab/nb-tts-voxcpm2-voices-2607-demo",
         "title": "Norske stemmer \u00b7 VoxCPM2",
         "author": "NbAiLab",
-        "likes": 4,
+        "likes": 5,
         "current_hardware": "a10g-small",
         "shortDescription": "No description available"
     },
@@ -427,7 +395,7 @@
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 2564,
+        "likes": 2570,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
     },
@@ -443,7 +411,7 @@
         "url": "https://huggingface.co/spaces/hf-audio/open_asr_leaderboard",
         "title": "Open ASR Leaderboard",
         "author": "hf-audio",
-        "likes": 1453,
+        "likes": 1454,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -456,10 +424,18 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/mii-llm/open_ita_llm_leaderboard",
+        "title": "Open Ita Llm Leaderboard",
+        "author": "mii-llm",
+        "likes": 85,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "Track, rank and evaluate open LLMs in the italian language!"
+    },
+    {
         "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
         "title": "Open LLM Leaderboard",
         "author": "open-llm-leaderboard",
-        "likes": 14102,
+        "likes": 14103,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Track, rank and evaluate open LLMs and chatbots"
     },
@@ -539,7 +515,7 @@
         "url": "https://huggingface.co/spaces/SageBio/rare-disease-real-kid-mva-hackathon-2026",
         "title": "Rare Disease, Real Kid: MVA Hackathon 2026",
         "author": "SageBio",
-        "likes": 112,
+        "likes": 113,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Rare disease hackathon 2026"
     },
@@ -584,11 +560,11 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/RWKV-Red-Team/RWKV-LatestSpace",
-        "title": "RWKV-LatestSpace",
-        "author": "RWKV-Red-Team",
-        "likes": 75,
-        "current_hardware": "t4-small",
+        "url": "https://huggingface.co/spaces/fffiloni/SAM2-Video-Predictor",
+        "title": "SAM2 Video Predictor",
+        "author": "fffiloni",
+        "likes": 120,
+        "current_hardware": "t4-medium",
         "shortDescription": "No description available"
     },
     {
@@ -598,6 +574,14 @@
         "likes": 136,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Generate 3D CAD models from images"
+    },
+    {
+        "url": "https://huggingface.co/spaces/amphion/singing_voice_conversion",
+        "title": "Singing Voice Conversion",
+        "author": "amphion",
+        "likes": 264,
+        "current_hardware": "a10g-small",
+        "shortDescription": "No description available"
     },
     {
         "url": "https://huggingface.co/spaces/tencent/SongPrep",
@@ -667,7 +651,7 @@
         "url": "https://huggingface.co/spaces/TTS-AGI/TTS-Arena-V2",
         "title": "TTS Arena V2",
         "author": "TTS-AGI",
-        "likes": 973,
+        "likes": 974,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -696,10 +680,18 @@
         "shortDescription": "Test your knowledge of fine-tuning language models"
     },
     {
+        "url": "https://huggingface.co/spaces/hugging-science/unsloth-studio-t4",
+        "title": "Unsloth Studio T4",
+        "author": "hugging-science",
+        "likes": 3,
+        "current_hardware": "t4-small",
+        "shortDescription": "No description available"
+    },
+    {
         "url": "https://huggingface.co/spaces/microsoft/vibevoice-asr-bitnet-demo",
         "title": "VibeVoice ASR BitNet",
         "author": "microsoft",
-        "likes": 39,
+        "likes": 40,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Multilingual CPU-only ASR with a 1.58-bit BitNet decoder"
     },
@@ -707,7 +699,7 @@
         "url": "https://huggingface.co/spaces/lerobot/visualize_dataset",
         "title": "Visualize Dataset (v2.0+ latest dataset format)",
         "author": "lerobot",
-        "likes": 645,
+        "likes": 646,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
