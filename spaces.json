@@ -91,7 +91,7 @@
         "url": "https://huggingface.co/spaces/safetensors/convert",
         "title": "Convert to Safetensors",
         "author": "safetensors",
-        "likes": 269,
+        "likes": 268,
         "current_hardware": "cpu-xl",
         "shortDescription": "No description available"
     },
@@ -99,7 +99,7 @@
         "url": "https://huggingface.co/spaces/nvidia/Cosmos3-Action-Viewer",
         "title": "Cosmos3 Action Viewer",
         "author": "nvidia",
-        "likes": 39,
+        "likes": 40,
         "current_hardware": "l40sx1",
         "shortDescription": "No description available"
     },
@@ -160,6 +160,22 @@
         "shortDescription": "Generate any application by Vibe Coding it"
     },
     {
+        "url": "https://huggingface.co/spaces/nllg/DeTikZify",
+        "title": "DeTikZify",
+        "author": "nllg",
+        "likes": 91,
+        "current_hardware": "l4x1",
+        "shortDescription": "Convert images and sketches into graphics programs with TikZ"
+    },
+    {
+        "url": "https://huggingface.co/spaces/fffiloni/DimensionX",
+        "title": "DimensionX",
+        "author": "fffiloni",
+        "likes": 381,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "3D/4D Scenes from a Single Image w/ Controllable Video Diff"
+    },
+    {
         "url": "https://huggingface.co/spaces/pszemraj/document-summarization",
         "title": "Document Summarization",
         "author": "pszemraj",
@@ -203,7 +219,7 @@
         "url": "https://huggingface.co/spaces/facebook/fairchem_uma_demo",
         "title": "FAIR Chem UMA Demo",
         "author": "facebook",
-        "likes": 69,
+        "likes": 70,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -235,7 +251,7 @@
         "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
         "title": "GAIA Leaderboard",
         "author": "gaia-benchmark",
-        "likes": 625,
+        "likes": 626,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -259,7 +275,7 @@
         "url": "https://huggingface.co/spaces/multimodalart/h3-acceleration-arena",
         "title": "H3 Acceleration Arena",
         "author": "multimodalart",
-        "likes": 130,
+        "likes": 137,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Blind A/B ranking of MiniMax-H3 acceleration variants"
     },
@@ -283,7 +299,7 @@
         "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
         "title": "Kolors Virtual Try-On",
         "author": "Kwai-Kolors",
-        "likes": 10178,
+        "likes": 10180,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -387,17 +403,9 @@
         "url": "https://huggingface.co/spaces/mteb/leaderboard",
         "title": "MTEB Leaderboard",
         "author": "mteb",
-        "likes": 7674,
+        "likes": 7676,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Embedding Leaderboard"
-    },
-    {
-        "url": "https://huggingface.co/spaces/NbAiLab/nb-tts-voxcpm2-voices-2607-demo",
-        "title": "Norske stemmer \u00b7 VoxCPM2",
-        "author": "NbAiLab",
-        "likes": 5,
-        "current_hardware": "a10g-small",
-        "shortDescription": "No description available"
     },
     {
         "url": "https://huggingface.co/spaces/CohereLabs/North-Small-Translate-1.0",
@@ -411,7 +419,7 @@
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 2628,
+        "likes": 2645,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
     },
@@ -451,7 +459,7 @@
         "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
         "title": "Open LLM Leaderboard",
         "author": "open-llm-leaderboard",
-        "likes": 14112,
+        "likes": 14113,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Track, rank and evaluate open LLMs and chatbots"
     },
@@ -568,14 +576,6 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/sklearn-docs/text-feature-extraction-evaluation",
-        "title": "Sample Pipeline for Text Feature Extraction and Evaluation",
-        "author": "sklearn-docs",
-        "likes": 3,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/spectral-labs/SGS-1",
         "title": "SGS 1",
         "author": "spectral-labs",
@@ -603,7 +603,7 @@
         "url": "https://huggingface.co/spaces/prism-ml/Ternary-Bonsai-27B-Demo",
         "title": "Ternary Bonsai 27B API Demo",
         "author": "prism-ml",
-        "likes": 35,
+        "likes": 39,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -611,7 +611,7 @@
         "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
         "title": "The Smol Training Playbook",
         "author": "HuggingFaceTB",
-        "likes": 3299,
+        "likes": 3301,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "The secrets to building world-class LLMs"
     },
@@ -667,17 +667,9 @@
         "url": "https://huggingface.co/spaces/agents-course/unit_1_quiz",
         "title": "Unit 1 Quiz - AI Agent Fundementals",
         "author": "agents-course",
-        "likes": 338,
+        "likes": 339,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Test your knowledge of the Agent fundamentals."
-    },
-    {
-        "url": "https://huggingface.co/spaces/microsoft/vibevoice-asr-bitnet-demo",
-        "title": "VibeVoice ASR BitNet",
-        "author": "microsoft",
-        "likes": 39,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "Multilingual CPU-only ASR with a 1.58-bit BitNet decoder"
     },
     {
         "url": "https://huggingface.co/spaces/lerobot/visualize_dataset",
@@ -694,6 +686,14 @@
         "likes": 74,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "CPU powered, low RTF, emotional, multilingual TTS"
+    },
+    {
+        "url": "https://huggingface.co/spaces/dokster/jason-statham-quote-generator",
+        "title": "\u0414\u0436\u0435\u0439\u0441\u043e\u043d \u0421\u0442\u044d\u0439\u0442\u0435\u043c \u0433\u043e\u0432\u043e\u0440\u0438\u0442",
+        "author": "dokster",
+        "likes": 1,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "No description available"
     },
     {
         "url": "https://huggingface.co/spaces/enzostvs/hub-api-playground",
