@@ -112,14 +112,6 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/teamseven/YLN",
-        "title": "Customer AI01",
-        "author": "teamseven",
-        "likes": 1,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/adyen/DABstep",
         "title": "DABstep Leaderboard",
         "author": "adyen",
@@ -128,18 +120,10 @@
         "shortDescription": "DABstep Reasoning Benchmark Leaderboard"
     },
     {
-        "url": "https://huggingface.co/spaces/fffiloni/dalle-mini-reboot",
-        "title": "DALL\u00b7E mini JAX Docker",
-        "author": "fffiloni",
-        "likes": 31,
-        "current_hardware": "t4-small",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/SAkizuki/DanbooruSearch",
         "title": "DanbooruSearch",
         "author": "SAkizuki",
-        "likes": 156,
+        "likes": 157,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "\u57fa\u4e8e\u8bed\u4e49\u5339\u914d\u7684 Danbooru \u6807\u7b7e\u641c\u7d22\u5f15\u64ce\uff0c\u652f\u6301\u591a\u7ef4\u5339\u914d\u3001\u667a\u80fd\u5206\u8bcd\u4e0e\u5171\u73b0\u5173\u8054\u63a8\u8350\u3002"
     },
@@ -166,14 +150,6 @@
         "likes": 91,
         "current_hardware": "l4x1",
         "shortDescription": "Convert images and sketches into graphics programs with TikZ"
-    },
-    {
-        "url": "https://huggingface.co/spaces/fffiloni/DimensionX",
-        "title": "DimensionX",
-        "author": "fffiloni",
-        "likes": 381,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "3D/4D Scenes from a Single Image w/ Controllable Video Diff"
     },
     {
         "url": "https://huggingface.co/spaces/pszemraj/document-summarization",
@@ -243,7 +219,7 @@
         "url": "https://huggingface.co/spaces/red-kit/flux-h3-chain",
         "title": "FLUX.2 / Z-Image -> MiniMax-H3 Chain",
         "author": "red-kit",
-        "likes": 1,
+        "likes": 2,
         "current_hardware": "a100-large",
         "shortDescription": "No description available"
     },
@@ -275,7 +251,7 @@
         "url": "https://huggingface.co/spaces/multimodalart/h3-acceleration-arena",
         "title": "H3 Acceleration Arena",
         "author": "multimodalart",
-        "likes": 137,
+        "likes": 140,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Blind A/B ranking of MiniMax-H3 acceleration variants"
     },
@@ -323,7 +299,7 @@
         "url": "https://huggingface.co/spaces/discord-community/LevelBot",
         "title": "LevelBot",
         "author": "discord-community",
-        "likes": 549,
+        "likes": 550,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -403,7 +379,7 @@
         "url": "https://huggingface.co/spaces/mteb/leaderboard",
         "title": "MTEB Leaderboard",
         "author": "mteb",
-        "likes": 7676,
+        "likes": 7678,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Embedding Leaderboard"
     },
@@ -419,7 +395,7 @@
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 2645,
+        "likes": 2653,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
     },
@@ -499,7 +475,7 @@
         "url": "https://huggingface.co/spaces/multimodalart/ai-toolkit",
         "title": "Ostris' AI Toolkit",
         "author": "multimodalart",
-        "likes": 151,
+        "likes": 152,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Train FLUX, Qwen and Wan LoRAs with Ostris Ai Toolkit"
     },
@@ -531,7 +507,7 @@
         "url": "https://huggingface.co/spaces/SageBio/rare-disease-real-kid-mva-hackathon-2026",
         "title": "Rare Disease, Real Kid: MVA Hackathon 2026",
         "author": "SageBio",
-        "likes": 117,
+        "likes": 118,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Rare disease hackathon 2026"
     },
@@ -568,11 +544,11 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/fffiloni/SAM2-Video-Predictor",
-        "title": "SAM2 Video Predictor",
-        "author": "fffiloni",
-        "likes": 120,
-        "current_hardware": "t4-medium",
+        "url": "https://huggingface.co/spaces/RWKV-Red-Team/RWKV-LatestSpace",
+        "title": "RWKV-LatestSpace",
+        "author": "RWKV-Red-Team",
+        "likes": 75,
+        "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
     {
@@ -627,7 +603,7 @@
         "url": "https://huggingface.co/spaces/CohereLabs/tiny-aya",
         "title": "Tiny Aya",
         "author": "CohereLabs",
-        "likes": 71,
+        "likes": 72,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -672,10 +648,18 @@
         "shortDescription": "Test your knowledge of the Agent fundamentals."
     },
     {
+        "url": "https://huggingface.co/spaces/fffiloni/VideoRetalking",
+        "title": "VideoRetalking",
+        "author": "fffiloni",
+        "likes": 337,
+        "current_hardware": "t4-medium",
+        "shortDescription": "Audio-based Lip Sync for Talking Head Video Editing"
+    },
+    {
         "url": "https://huggingface.co/spaces/lerobot/visualize_dataset",
         "title": "Visualize Dataset (v2.0+ latest dataset format)",
         "author": "lerobot",
-        "likes": 658,
+        "likes": 660,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -686,14 +670,6 @@
         "likes": 74,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "CPU powered, low RTF, emotional, multilingual TTS"
-    },
-    {
-        "url": "https://huggingface.co/spaces/dokster/jason-statham-quote-generator",
-        "title": "\u0414\u0436\u0435\u0439\u0441\u043e\u043d \u0421\u0442\u044d\u0439\u0442\u0435\u043c \u0433\u043e\u0432\u043e\u0440\u0438\u0442",
-        "author": "dokster",
-        "likes": 1,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
     },
     {
         "url": "https://huggingface.co/spaces/enzostvs/hub-api-playground",
