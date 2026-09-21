@@ -64,22 +64,6 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/CohereLabs/cohere-parse",
-        "title": "Cohere Parse",
-        "author": "CohereLabs",
-        "likes": 25,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
-        "url": "https://huggingface.co/spaces/CohereLabs/cohere-transcribe-arabic-07-2026",
-        "title": "Cohere Transcribe Arabic ASR",
-        "author": "CohereLabs",
-        "likes": 24,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/ai-conferences/conference-paper-search",
         "title": "Conference Paper Search",
         "author": "ai-conferences",
@@ -101,6 +85,14 @@
         "author": "nvidia",
         "likes": 40,
         "current_hardware": "l40sx1",
+        "shortDescription": "No description available"
+    },
+    {
+        "url": "https://huggingface.co/spaces/nikigoli/countgd",
+        "title": "CountGD_Multi-Modal_Open-World_Counting",
+        "author": "nikigoli",
+        "likes": 126,
+        "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
     {
@@ -227,7 +219,7 @@
         "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
         "title": "GAIA Leaderboard",
         "author": "gaia-benchmark",
-        "likes": 626,
+        "likes": 627,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -251,7 +243,7 @@
         "url": "https://huggingface.co/spaces/multimodalart/h3-acceleration-arena",
         "title": "H3 Acceleration Arena",
         "author": "multimodalart",
-        "likes": 140,
+        "likes": 139,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Blind A/B ranking of MiniMax-H3 acceleration variants"
     },
@@ -299,7 +291,7 @@
         "url": "https://huggingface.co/spaces/discord-community/LevelBot",
         "title": "LevelBot",
         "author": "discord-community",
-        "likes": 550,
+        "likes": 551,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -347,7 +339,7 @@
         "url": "https://huggingface.co/spaces/TIGER-Lab/MMEB-Leaderboard",
         "title": "MMEB Leaderboard",
         "author": "TIGER-Lab",
-        "likes": 131,
+        "likes": 132,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "The massive multimodal embedding benchmark"
     },
@@ -379,7 +371,7 @@
         "url": "https://huggingface.co/spaces/mteb/leaderboard",
         "title": "MTEB Leaderboard",
         "author": "mteb",
-        "likes": 7678,
+        "likes": 7679,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Embedding Leaderboard"
     },
@@ -395,7 +387,7 @@
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 2653,
+        "likes": 2668,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
     },
@@ -411,7 +403,7 @@
         "url": "https://huggingface.co/spaces/hf-audio/open_asr_leaderboard",
         "title": "Open ASR Leaderboard",
         "author": "hf-audio",
-        "likes": 1458,
+        "likes": 1460,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -507,9 +499,17 @@
         "url": "https://huggingface.co/spaces/SageBio/rare-disease-real-kid-mva-hackathon-2026",
         "title": "Rare Disease, Real Kid: MVA Hackathon 2026",
         "author": "SageBio",
-        "likes": 118,
+        "likes": 119,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Rare disease hackathon 2026"
+    },
+    {
+        "url": "https://huggingface.co/spaces/pollen-robotics/reachy-mini-3d-voice",
+        "title": "Reachy Mini 3D Voice",
+        "author": "pollen-robotics",
+        "likes": 9,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "Talk by voice to a 3D Reachy Mini, fully in the browser"
     },
     {
         "url": "https://huggingface.co/spaces/Roboflow/RF-DETR",
@@ -552,6 +552,14 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/fffiloni/SAM2-Video-Predictor",
+        "title": "SAM2 Video Predictor",
+        "author": "fffiloni",
+        "likes": 120,
+        "current_hardware": "t4-medium",
+        "shortDescription": "No description available"
+    },
+    {
         "url": "https://huggingface.co/spaces/spectral-labs/SGS-1",
         "title": "SGS 1",
         "author": "spectral-labs",
@@ -579,7 +587,7 @@
         "url": "https://huggingface.co/spaces/prism-ml/Ternary-Bonsai-27B-Demo",
         "title": "Ternary Bonsai 27B API Demo",
         "author": "prism-ml",
-        "likes": 39,
+        "likes": 41,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -611,7 +619,7 @@
         "url": "https://huggingface.co/spaces/Roboflow/Trackers",
         "title": "Trackers",
         "author": "Roboflow",
-        "likes": 84,
+        "likes": 85,
         "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
@@ -648,18 +656,18 @@
         "shortDescription": "Test your knowledge of the Agent fundamentals."
     },
     {
-        "url": "https://huggingface.co/spaces/fffiloni/VideoRetalking",
-        "title": "VideoRetalking",
-        "author": "fffiloni",
-        "likes": 337,
-        "current_hardware": "t4-medium",
-        "shortDescription": "Audio-based Lip Sync for Talking Head Video Editing"
+        "url": "https://huggingface.co/spaces/mayafree/verifier-playground",
+        "title": "Verifier Playground",
+        "author": "mayafree",
+        "likes": 31,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "Run ZTC, JEV and Laya on the same question and answer"
     },
     {
         "url": "https://huggingface.co/spaces/lerobot/visualize_dataset",
         "title": "Visualize Dataset (v2.0+ latest dataset format)",
         "author": "lerobot",
-        "likes": 660,
+        "likes": 662,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
