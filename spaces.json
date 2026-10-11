@@ -32,14 +32,6 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/nvidia/asset-harvester",
-        "title": "Asset Harvester",
-        "author": "nvidia",
-        "likes": 33,
-        "current_hardware": "a100-large",
-        "shortDescription": "Image-to-3D for autonomous-vehicle simulation assets"
-    },
-    {
         "url": "https://huggingface.co/spaces/nvidia/AV-Causal-Scenario-Retrieval-Challenge",
         "title": "AV Causal Scenario Retrieval Challenge",
         "author": "nvidia",
@@ -94,14 +86,6 @@
         "likes": 24,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Compare strong zero-shot image classification models"
-    },
-    {
-        "url": "https://huggingface.co/spaces/Ryukijano/conjugate",
-        "title": "Conjugate",
-        "author": "Ryukijano",
-        "likes": 3,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "Checks HER2 ADC claims against cited sources"
     },
     {
         "url": "https://huggingface.co/spaces/safetensors/convert",
@@ -168,6 +152,14 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/linoyts/edit_friendly_ddpm_inversion",
+        "title": "Edit Friendly Ddpm Inversion",
+        "author": "linoyts",
+        "likes": 128,
+        "current_hardware": "a10g-small",
+        "shortDescription": "No description available"
+    },
+    {
         "url": "https://huggingface.co/spaces/exbert-project/exbert",
         "title": "Exbert",
         "author": "exbert-project",
@@ -219,7 +211,7 @@
         "url": "https://huggingface.co/spaces/ggml-org/gguf-my-repo",
         "title": "GGUF My Repo",
         "author": "ggml-org",
-        "likes": 2102,
+        "likes": 2101,
         "current_hardware": "a10g-large",
         "shortDescription": "No description available"
     },
@@ -371,23 +363,15 @@
         "url": "https://huggingface.co/spaces/mteb/leaderboard",
         "title": "MTEB Leaderboard",
         "author": "mteb",
-        "likes": 7717,
+        "likes": 7720,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Embedding Leaderboard"
-    },
-    {
-        "url": "https://huggingface.co/spaces/fffiloni/Music-To-Lyrics",
-        "title": "Music To Lyrics",
-        "author": "fffiloni",
-        "likes": 45,
-        "current_hardware": "t4-small",
-        "shortDescription": "No description available"
     },
     {
         "url": "https://huggingface.co/spaces/CohereLabs/North-Mini-Code-1.0",
         "title": "North Mini Code Demo",
         "author": "CohereLabs",
-        "likes": 45,
+        "likes": 46,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -403,7 +387,7 @@
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 2786,
+        "likes": 2788,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
     },
@@ -443,7 +427,7 @@
         "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
         "title": "Open LLM Leaderboard",
         "author": "open-llm-leaderboard",
-        "likes": 14139,
+        "likes": 14141,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Track, rank and evaluate open LLMs and chatbots"
     },
@@ -475,7 +459,7 @@
         "url": "https://huggingface.co/spaces/openenvarena/arena",
         "title": "OpenEnv Arena",
         "author": "openenvarena",
-        "likes": 4,
+        "likes": 5,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Submit an OpenEnv environment and train a model on it"
     },
@@ -531,7 +515,7 @@
         "url": "https://huggingface.co/spaces/SageBio/rare-disease-real-kid-mva-hackathon-2026",
         "title": "Rare Disease, Real Kid: MVA Hackathon 2026",
         "author": "SageBio",
-        "likes": 125,
+        "likes": 126,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Rare disease hackathon 2026"
     },
@@ -565,6 +549,14 @@
         "author": "BlinkDL",
         "likes": 670,
         "current_hardware": "t4-medium",
+        "shortDescription": "No description available"
+    },
+    {
+        "url": "https://huggingface.co/spaces/RWKV-Red-Team/RWKV-LatestSpace",
+        "title": "RWKV-LatestSpace",
+        "author": "RWKV-Red-Team",
+        "likes": 75,
+        "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
     {
@@ -603,7 +595,7 @@
         "url": "https://huggingface.co/spaces/LiquidAI/system-one-arcade",
         "title": "System One Arcade",
         "author": "LiquidAI",
-        "likes": 16,
+        "likes": 22,
         "current_hardware": "l4x1",
         "shortDescription": "Eleven camera, drawing and text demos of d1-3B"
     },
@@ -611,7 +603,7 @@
         "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
         "title": "The Smol Training Playbook",
         "author": "HuggingFaceTB",
-        "likes": 3323,
+        "likes": 3324,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "The secrets to building world-class LLMs"
     },
@@ -643,7 +635,7 @@
         "url": "https://huggingface.co/spaces/TTS-AGI/TTS-Arena-V2",
         "title": "TTS Arena V2",
         "author": "TTS-AGI",
-        "likes": 980,
+        "likes": 981,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
