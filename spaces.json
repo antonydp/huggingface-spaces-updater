@@ -35,7 +35,7 @@
         "url": "https://huggingface.co/spaces/nvidia/AV-Causal-Scenario-Retrieval-Challenge",
         "title": "AV Causal Scenario Retrieval Challenge",
         "author": "nvidia",
-        "likes": 27,
+        "likes": 28,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -88,11 +88,11 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/nvidia/Cosmos3-Action-Viewer",
-        "title": "Cosmos3 Action Viewer",
-        "author": "nvidia",
-        "likes": 45,
-        "current_hardware": "l40sx1",
+        "url": "https://huggingface.co/spaces/nikigoli/countgd",
+        "title": "CountGD_Multi-Modal_Open-World_Counting",
+        "author": "nikigoli",
+        "likes": 127,
+        "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
     {
@@ -184,6 +184,14 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/HuggingFaceM4/faster-qwen3-tts-demo",
+        "title": "faster-qwen3-tts",
+        "author": "HuggingFaceM4",
+        "likes": 254,
+        "current_hardware": "a10g-small",
+        "shortDescription": "No description available"
+    },
+    {
         "url": "https://huggingface.co/spaces/HuggingFaceFV/FineVideo-Explorer",
         "title": "FineVideo Explorer",
         "author": "HuggingFaceFV",
@@ -211,7 +219,7 @@
         "url": "https://huggingface.co/spaces/ggml-org/gguf-my-repo",
         "title": "GGUF My Repo",
         "author": "ggml-org",
-        "likes": 2106,
+        "likes": 2108,
         "current_hardware": "a10g-large",
         "shortDescription": "No description available"
     },
@@ -224,18 +232,10 @@
         "shortDescription": "Blind A/B ranking of MiniMax-H3 acceleration variants"
     },
     {
-        "url": "https://huggingface.co/spaces/harims95/hobbylm-1b-chat",
-        "title": "HobbyLM-1B Chat",
-        "author": "harims95",
-        "likes": 2,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/huggingface/inference-playground",
         "title": "Inference Playground",
         "author": "huggingface",
-        "likes": 321,
+        "likes": 322,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -243,7 +243,7 @@
         "url": "https://huggingface.co/spaces/nvidia/Kimodo",
         "title": "Kimodo",
         "author": "nvidia",
-        "likes": 323,
+        "likes": 324,
         "current_hardware": "l40sx1",
         "shortDescription": "Generate high-quality motions from text prompts"
     },
@@ -251,7 +251,7 @@
         "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
         "title": "Kolors Virtual Try-On",
         "author": "Kwai-Kolors",
-        "likes": 10209,
+        "likes": 10210,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -371,15 +371,23 @@
         "url": "https://huggingface.co/spaces/mteb/leaderboard",
         "title": "MTEB Leaderboard",
         "author": "mteb",
-        "likes": 7740,
+        "likes": 7742,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Embedding Leaderboard"
+    },
+    {
+        "url": "https://huggingface.co/spaces/nvidia/nemotron-labs-audio-visual-flamingo",
+        "title": "Nemotron-Labs-Audio-Visual Flamingo",
+        "author": "nvidia",
+        "likes": 13,
+        "current_hardware": "a100-large",
+        "shortDescription": "No description available"
     },
     {
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 2809,
+        "likes": 2813,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
     },
@@ -419,7 +427,7 @@
         "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
         "title": "Open LLM Leaderboard",
         "author": "open-llm-leaderboard",
-        "likes": 14149,
+        "likes": 14152,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Track, rank and evaluate open LLMs and chatbots"
     },
@@ -443,7 +451,7 @@
         "url": "https://huggingface.co/spaces/huggingface/openapi",
         "title": "OpenAPI",
         "author": "huggingface",
-        "likes": 81,
+        "likes": 82,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Hub API Documentation"
     },
@@ -451,7 +459,7 @@
         "url": "https://huggingface.co/spaces/openenvarena/arena",
         "title": "OpenEnv Arena",
         "author": "openenvarena",
-        "likes": 7,
+        "likes": 8,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Submit an OpenEnv environment and train a model on it"
     },
@@ -499,7 +507,7 @@
         "url": "https://huggingface.co/spaces/SageBio/rare-disease-real-kid-mva-hackathon-2026",
         "title": "Rare Disease, Real Kid: MVA Hackathon 2026",
         "author": "SageBio",
-        "likes": 128,
+        "likes": 129,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Rare disease hackathon 2026"
     },
@@ -507,7 +515,7 @@
         "url": "https://huggingface.co/spaces/FineEnvs/RL-Explorer",
         "title": "RL Environments on Hugging Face",
         "author": "FineEnvs",
-        "likes": 33,
+        "likes": 35,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Explore RL environments, browse tasks and run agent rollouts"
     },
@@ -533,6 +541,14 @@
         "author": "BlinkDL",
         "likes": 670,
         "current_hardware": "t4-medium",
+        "shortDescription": "No description available"
+    },
+    {
+        "url": "https://huggingface.co/spaces/RWKV-Red-Team/RWKV-LatestSpace",
+        "title": "RWKV-LatestSpace",
+        "author": "RWKV-Red-Team",
+        "likes": 75,
+        "current_hardware": "t4-small",
         "shortDescription": "No description available"
     },
     {
@@ -563,7 +579,7 @@
         "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
         "title": "The Smol Training Playbook",
         "author": "HuggingFaceTB",
-        "likes": 3333,
+        "likes": 3334,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "The secrets to building world-class LLMs"
     },
@@ -608,10 +624,18 @@
         "shortDescription": "Test your knowledge of the Agent fundamentals."
     },
     {
+        "url": "https://huggingface.co/spaces/ThaiDecorEvent/UNIVERSEAI",
+        "title": "UNIVERSEAI",
+        "author": "ThaiDecorEvent",
+        "likes": 1,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "No description available"
+    },
+    {
         "url": "https://huggingface.co/spaces/lerobot/visualize_dataset",
         "title": "Visualize Dataset (v2.0+ latest dataset format)",
         "author": "lerobot",
-        "likes": 710,
+        "likes": 712,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -643,7 +667,7 @@
         "url": "https://huggingface.co/spaces/enzostvs/hub-api-playground",
         "title": "\u2014 Hub API Playground \u2014",
         "author": "enzostvs",
-        "likes": 138,
+        "likes": 139,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Try the Hugging Face API through the playground"
     }
