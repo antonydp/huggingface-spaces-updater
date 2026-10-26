@@ -80,6 +80,14 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/fffiloni/choose-your-own-adventure-dm",
+        "title": "Choose your own adventure",
+        "author": "fffiloni",
+        "likes": 1,
+        "current_hardware": "t4-small",
+        "shortDescription": "CYOA with Local AI & Decision Models"
+    },
+    {
         "url": "https://huggingface.co/spaces/CohereLabs/cohere-transcribe-03-2026",
         "title": "Cohere Multilingual ASR",
         "author": "CohereLabs",
@@ -147,7 +155,7 @@
         "url": "https://huggingface.co/spaces/huggingface-projects/Deep-Reinforcement-Learning-Leaderboard",
         "title": "Deep Reinforcement Learning Leaderboard",
         "author": "huggingface-projects",
-        "likes": 405,
+        "likes": 406,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -184,6 +192,14 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/reasoning-course/fundamentals_exam",
+        "title": "Exam 1 - Fundamentals of GRPO",
+        "author": "reasoning-course",
+        "likes": 14,
+        "current_hardware": "cpu-xl",
+        "shortDescription": "Test your knowledge of GRPO, TRL, RL, and Deepseek R1."
+    },
+    {
         "url": "https://huggingface.co/spaces/exbert-project/exbert",
         "title": "Exbert",
         "author": "exbert-project",
@@ -211,7 +227,7 @@
         "url": "https://huggingface.co/spaces/treble-technologies/ffasr",
         "title": "FFASR Leaderboard",
         "author": "treble-technologies",
-        "likes": 47,
+        "likes": 48,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Far-Field ASR \u2014 clean / noisy / reverberant benchmark"
     },
@@ -259,7 +275,7 @@
         "url": "https://huggingface.co/spaces/multimodalart/h3-acceleration-arena",
         "title": "H3 Acceleration Arena",
         "author": "multimodalart",
-        "likes": 154,
+        "likes": 155,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Blind A/B ranking of MiniMax-H3 acceleration variants"
     },
@@ -331,7 +347,7 @@
         "url": "https://huggingface.co/spaces/3d-arena/llm-3d-worlds-arena",
         "title": "LLM 3D Worlds Arena",
         "author": "3d-arena",
-        "likes": 31,
+        "likes": 33,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -416,14 +432,6 @@
         "shortDescription": "Embedding Leaderboard"
     },
     {
-        "url": "https://huggingface.co/spaces/nvidia/nemotron-labs-audio-visual-flamingo",
-        "title": "Nemotron-Labs-Audio-Visual Flamingo",
-        "author": "nvidia",
-        "likes": 13,
-        "current_hardware": "a100-large",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/CohereLabs/North-Small-Translate-1.0",
         "title": "North Small Translate 1.0",
         "author": "CohereLabs",
@@ -435,7 +443,7 @@
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 2856,
+        "likes": 2859,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
     },
@@ -451,7 +459,7 @@
         "url": "https://huggingface.co/spaces/hf-audio/open_asr_leaderboard",
         "title": "Open ASR Leaderboard",
         "author": "hf-audio",
-        "likes": 1507,
+        "likes": 1510,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -475,7 +483,7 @@
         "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
         "title": "Open LLM Leaderboard",
         "author": "open-llm-leaderboard",
-        "likes": 14144,
+        "likes": 14145,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Track, rank and evaluate open LLMs and chatbots"
     },
@@ -502,14 +510,6 @@
         "likes": 83,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Hub API Documentation"
-    },
-    {
-        "url": "https://huggingface.co/spaces/openenvarena/arena",
-        "title": "OpenEnv Arena",
-        "author": "openenvarena",
-        "likes": 8,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "Submit an OpenEnv environment and train a model on it"
     },
     {
         "url": "https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard",
@@ -571,17 +571,9 @@
         "url": "https://huggingface.co/spaces/nvidia/rfd4-proteina-space",
         "title": "RFD4-Proteina Space",
         "author": "nvidia",
-        "likes": 19,
+        "likes": 21,
         "current_hardware": "rtx-pro-6000",
         "shortDescription": "Design proteins and complexes with RFD4-Prote\u00edna"
-    },
-    {
-        "url": "https://huggingface.co/spaces/FineEnvs/RL-Explorer",
-        "title": "RL Environments on Hugging Face",
-        "author": "FineEnvs",
-        "likes": 35,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "Explore RL environments, browse tasks and run agent rollouts"
     },
     {
         "url": "https://huggingface.co/spaces/ArkanDash/rvc-genshin-impact",
@@ -619,7 +611,7 @@
         "url": "https://huggingface.co/spaces/nvidia/simready-central",
         "title": "SimReady Central USD Search",
         "author": "nvidia",
-        "likes": 86,
+        "likes": 108,
         "current_hardware": "rtx-pro-6000",
         "shortDescription": "No description available"
     },
@@ -651,7 +643,7 @@
         "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
         "title": "The Smol Training Playbook",
         "author": "HuggingFaceTB",
-        "likes": 3341,
+        "likes": 3342,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "The secrets to building world-class LLMs"
     },
@@ -696,18 +688,10 @@
         "shortDescription": "Test your knowledge of the Agent fundamentals."
     },
     {
-        "url": "https://huggingface.co/spaces/ThaiDecorEvent/UNIVERSEAI",
-        "title": "UNIVERSEAI",
-        "author": "ThaiDecorEvent",
-        "likes": 1,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/lerobot/visualize_dataset",
         "title": "Visualize Dataset (v2.0+ latest dataset format)",
         "author": "lerobot",
-        "likes": 719,
+        "likes": 721,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
