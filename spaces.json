@@ -59,7 +59,7 @@
         "url": "https://huggingface.co/spaces/CohereLabs/c4ai-command",
         "title": "C4AI Command Models",
         "author": "CohereLabs",
-        "likes": 1531,
+        "likes": 1530,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -67,7 +67,7 @@
         "url": "https://huggingface.co/spaces/galilai-group/prh_demo",
         "title": "Captions Without Pairs",
         "author": "galilai-group",
-        "likes": 3,
+        "likes": 4,
         "current_hardware": "a100-large",
         "shortDescription": "Caption a photo or a video, with no image-caption pairs"
     },
@@ -96,8 +96,8 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/CohereLabs/cohere-transcribe-arabic-07-2026",
-        "title": "Cohere Transcribe Arabic ASR",
+        "url": "https://huggingface.co/spaces/CohereLabs/command-a-reasoning",
+        "title": "Command A Reasoning",
         "author": "CohereLabs",
         "likes": 28,
         "current_hardware": "cpu-upgrade",
@@ -136,18 +136,10 @@
         "shortDescription": "\u57fa\u4e8e\u8bed\u4e49\u5339\u914d\u7684 Danbooru \u6807\u7b7e\u641c\u7d22\u5f15\u64ce\uff0c\u652f\u6301\u591a\u7ef4\u5339\u914d\u3001\u667a\u80fd\u5206\u8bcd\u4e0e\u5171\u73b0\u5173\u8054\u63a8\u8350\u3002"
     },
     {
-        "url": "https://huggingface.co/spaces/Hanno-Labs/decision-bench-leaderboard",
-        "title": "DecisionBench Leaderboard",
-        "author": "Hanno-Labs",
-        "likes": 9,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/huggingface-projects/Deep-Reinforcement-Learning-Leaderboard",
         "title": "Deep Reinforcement Learning Leaderboard",
         "author": "huggingface-projects",
-        "likes": 410,
+        "likes": 411,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -166,14 +158,6 @@
         "likes": 91,
         "current_hardware": "l4x1",
         "shortDescription": "Convert images and sketches into graphics programs with TikZ"
-    },
-    {
-        "url": "https://huggingface.co/spaces/fffiloni/DimensionX",
-        "title": "DimensionX",
-        "author": "fffiloni",
-        "likes": 384,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "3D/4D Scenes from a Single Image w/ Controllable Video Diff"
     },
     {
         "url": "https://huggingface.co/spaces/pszemraj/document-summarization",
@@ -195,7 +179,7 @@
         "url": "https://huggingface.co/spaces/linoyts/edit_friendly_ddpm_inversion",
         "title": "Edit Friendly Ddpm Inversion",
         "author": "linoyts",
-        "likes": 128,
+        "likes": 129,
         "current_hardware": "a10g-small",
         "shortDescription": "No description available"
     },
@@ -235,7 +219,7 @@
         "url": "https://huggingface.co/spaces/HuggingFaceM4/faster-qwen3-tts-demo",
         "title": "faster-qwen3-tts",
         "author": "HuggingFaceM4",
-        "likes": 255,
+        "likes": 256,
         "current_hardware": "a10g-small",
         "shortDescription": "No description available"
     },
@@ -355,7 +339,7 @@
         "url": "https://huggingface.co/spaces/discord-community/LevelBot",
         "title": "LevelBot",
         "author": "discord-community",
-        "likes": 570,
+        "likes": 569,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -395,17 +379,9 @@
         "url": "https://huggingface.co/spaces/FineEnvs/MiMo-RL-Envs-Explorer",
         "title": "MiMo RL Environment Explorer",
         "author": "FineEnvs",
-        "likes": 88,
+        "likes": 89,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Explore the MiMo-V2.6 RL environments and run rollouts"
-    },
-    {
-        "url": "https://huggingface.co/spaces/AlicanKiraz0/Mizan-27B-Turkish-Legal-Decision-Model",
-        "title": "Mizan Legal Decision Model",
-        "author": "AlicanKiraz0",
-        "likes": 16,
-        "current_hardware": "a100-large",
-        "shortDescription": "T\u00fcrk hukuku karar modeli \u2014 kalibre olas\u0131l\u0131k test ortam\u0131"
     },
     {
         "url": "https://huggingface.co/spaces/smolagents/ml-intern",
@@ -419,7 +395,7 @@
         "url": "https://huggingface.co/spaces/mlx-community/mlx-my-repo",
         "title": "MLX My Repo",
         "author": "mlx-community",
-        "likes": 220,
+        "likes": 221,
         "current_hardware": "cpu-xl",
         "shortDescription": "No description available"
     },
@@ -448,6 +424,14 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/cetiennec/rl-markov-decision-processes",
+        "title": "Modeling the World",
+        "author": "cetiennec",
+        "likes": 1,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "RL part 1: MDPs and the Bellman equations"
+    },
+    {
         "url": "https://huggingface.co/spaces/skytnt/moe-tts",
         "title": "Moe TTS",
         "author": "skytnt",
@@ -467,7 +451,7 @@
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 2882,
+        "likes": 2885,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
     },
@@ -483,7 +467,7 @@
         "url": "https://huggingface.co/spaces/hf-audio/open_asr_leaderboard",
         "title": "Open ASR Leaderboard",
         "author": "hf-audio",
-        "likes": 1519,
+        "likes": 1521,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -507,7 +491,7 @@
         "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
         "title": "Open LLM Leaderboard",
         "author": "open-llm-leaderboard",
-        "likes": 14149,
+        "likes": 14151,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Track, rank and evaluate open LLMs and chatbots"
     },
@@ -571,7 +555,7 @@
         "url": "https://huggingface.co/spaces/AimeeBingmouQu/ProtectBirds",
         "title": "ProtectBirds",
         "author": "AimeeBingmouQu",
-        "likes": 1295,
+        "likes": 1442,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Protect Birds"
     },
@@ -595,7 +579,7 @@
         "url": "https://huggingface.co/spaces/SageBio/rare-disease-real-kid-mva-hackathon-2026",
         "title": "Rare Disease, Real Kid: MVA Hackathon 2026",
         "author": "SageBio",
-        "likes": 129,
+        "likes": 130,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Rare disease hackathon 2026"
     },
@@ -659,7 +643,7 @@
         "url": "https://huggingface.co/spaces/nvidia/simready-central",
         "title": "SimReady Central",
         "author": "nvidia",
-        "likes": 300,
+        "likes": 313,
         "current_hardware": "rtx-pro-6000",
         "shortDescription": "Semantic search for 3D assets: USD + RTX simulation previews"
     },
@@ -712,6 +696,14 @@
         "shortDescription": "No description available"
     },
     {
+        "url": "https://huggingface.co/spaces/TTS-AGI/TTS-Arena-V2",
+        "title": "TTS Arena V2",
+        "author": "TTS-AGI",
+        "likes": 984,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "No description available"
+    },
+    {
         "url": "https://huggingface.co/spaces/agents-course/unit1-certification-app",
         "title": "Unit 1 Certification - AI Agent Fundamentals",
         "author": "agents-course",
@@ -747,7 +739,7 @@
         "url": "https://huggingface.co/spaces/lerobot/visualize_dataset",
         "title": "Visualize Dataset (v2.0+ latest dataset format)",
         "author": "lerobot",
-        "likes": 733,
+        "likes": 734,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -755,7 +747,7 @@
         "url": "https://huggingface.co/spaces/loongwayX/Xiaomi-OCR-0-demo",
         "title": "Xiaomi OCR 0 Demo",
         "author": "loongwayX",
-        "likes": 7,
+        "likes": 12,
         "current_hardware": "a100-large",
         "shortDescription": "Document parsing, extraction and visual question answering"
     },
