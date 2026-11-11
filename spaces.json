@@ -27,7 +27,7 @@
         "url": "https://huggingface.co/spaces/nvidia/AV-Causal-Scenario-Retrieval-Challenge",
         "title": "AV Causal Scenario Retrieval Challenge",
         "author": "nvidia",
-        "likes": 34,
+        "likes": 35,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -139,7 +139,7 @@
         "url": "https://huggingface.co/spaces/fffiloni/DimensionX",
         "title": "DimensionX",
         "author": "fffiloni",
-        "likes": 384,
+        "likes": 385,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "3D/4D Scenes from a Single Image w/ Controllable Video Diff"
     },
@@ -187,7 +187,7 @@
         "url": "https://huggingface.co/spaces/facebook/fairchem_uma_demo",
         "title": "FAIR Chem UMA Demo",
         "author": "facebook",
-        "likes": 71,
+        "likes": 72,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -204,6 +204,14 @@
         "title": "FineVideo Explorer",
         "author": "HuggingFaceFV",
         "likes": 110,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "No description available"
+    },
+    {
+        "url": "https://huggingface.co/spaces/Danielariscob/First_agent_template_V2",
+        "title": "First Agent Template",
+        "author": "Danielariscob",
+        "likes": 1,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -243,7 +251,15 @@
         "url": "https://huggingface.co/spaces/thea2026/image-to-video",
         "title": "Image to Video",
         "author": "thea2026",
-        "likes": 113,
+        "likes": 723,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "Make videos from text or photos \u2014 free, no GPU queue"
+    },
+    {
+        "url": "https://huggingface.co/spaces/ArtemisFowl2/image-to-video",
+        "title": "Image to Video",
+        "author": "ArtemisFowl2",
+        "likes": 1,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Make videos from text or photos \u2014 free, no GPU queue"
     },
@@ -267,7 +283,7 @@
         "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
         "title": "Kolors Virtual Try-On",
         "author": "Kwai-Kolors",
-        "likes": 10219,
+        "likes": 10222,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -387,7 +403,7 @@
         "url": "https://huggingface.co/spaces/cetiennec/rl-markov-decision-processes",
         "title": "Modeling the World",
         "author": "cetiennec",
-        "likes": 11,
+        "likes": 12,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "RL part 1: MDPs and the Bellman equations"
     },
@@ -403,7 +419,7 @@
         "url": "https://huggingface.co/spaces/mteb/leaderboard",
         "title": "MTEB Leaderboard",
         "author": "mteb",
-        "likes": 7768,
+        "likes": 7771,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Embedding Leaderboard"
     },
@@ -411,7 +427,7 @@
         "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
         "title": "Omni Image Editor",
         "author": "selfit-camera",
-        "likes": 2910,
+        "likes": 2915,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Image edit, text to image, image upscale, remove watermark"
     },
@@ -427,7 +443,7 @@
         "url": "https://huggingface.co/spaces/hf-audio/open_asr_leaderboard",
         "title": "Open ASR Leaderboard",
         "author": "hf-audio",
-        "likes": 1527,
+        "likes": 1529,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -451,7 +467,7 @@
         "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
         "title": "Open LLM Leaderboard",
         "author": "open-llm-leaderboard",
-        "likes": 14156,
+        "likes": 14155,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Track, rank and evaluate open LLMs and chatbots"
     },
@@ -555,7 +571,7 @@
         "url": "https://huggingface.co/spaces/FineEnvs/RL-Explorer",
         "title": "RL Environments on Hugging Face",
         "author": "FineEnvs",
-        "likes": 39,
+        "likes": 40,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "Explore RL environments, browse tasks and run agent rollouts"
     },
@@ -584,22 +600,6 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/plitip/team-qh-091-safesite-app",
-        "title": "Salamtak \u0633\u0644\u0627\u0645\u062a\u0643",
-        "author": "plitip",
-        "likes": 2,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "Site photo to hazards, safe/unsafe verdict, worker alerts"
-    },
-    {
-        "url": "https://huggingface.co/spaces/Sandflow/sand3d-explorer",
-        "title": "Sand3D Explorer",
-        "author": "Sandflow",
-        "likes": 22,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "3D objects, each with the Python program that builds it"
-    },
-    {
         "url": "https://huggingface.co/spaces/spectral-labs/SGS-1",
         "title": "SGS 1",
         "author": "spectral-labs",
@@ -611,7 +611,7 @@
         "url": "https://huggingface.co/spaces/nvidia/simready-central",
         "title": "SimReady Central",
         "author": "nvidia",
-        "likes": 402,
+        "likes": 408,
         "current_hardware": "rtx-pro-6000",
         "shortDescription": "Semantic search for 3D assets: USD + RTX simulation previews"
     },
@@ -632,14 +632,6 @@
         "shortDescription": "No description available"
     },
     {
-        "url": "https://huggingface.co/spaces/Anurag137/Swayam-Sevak",
-        "title": "Swayam-sevak Agent",
-        "author": "Anurag137",
-        "likes": 1,
-        "current_hardware": "cpu-upgrade",
-        "shortDescription": "No description available"
-    },
-    {
         "url": "https://huggingface.co/spaces/LiquidAI/system-one-arcade",
         "title": "System One Arcade",
         "author": "LiquidAI",
@@ -648,18 +640,18 @@
         "shortDescription": "Twelve camera, drawing and text demos of d1-2B"
     },
     {
-        "url": "https://huggingface.co/spaces/huggingface-KREW/smol-training-playbook-ko",
-        "title": "The Smol Training Playbook",
-        "author": "huggingface-KREW",
-        "likes": 2,
+        "url": "https://huggingface.co/spaces/hugging-3d/tailorrig-explorer",
+        "title": "TailorRig Explorer",
+        "author": "hugging-3d",
+        "likes": 1,
         "current_hardware": "cpu-upgrade",
-        "shortDescription": "The secrets to building world-class LLMs"
+        "shortDescription": "Search, pose and simulate all 39k TailorRig characters"
     },
     {
         "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
         "title": "The Smol Training Playbook",
         "author": "HuggingFaceTB",
-        "likes": 3369,
+        "likes": 3377,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "The secrets to building world-class LLMs"
     },
@@ -675,7 +667,7 @@
         "url": "https://huggingface.co/spaces/huggingface/moe-blogpost",
         "title": "The Ultimate MoE Training Handbook",
         "author": "huggingface",
-        "likes": 486,
+        "likes": 535,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "A hands-on guide to training Mixture-of-Experts models"
     },
@@ -692,6 +684,14 @@
         "title": "Titanic Survival in Real Time",
         "author": "abidlabs",
         "likes": 0,
+        "current_hardware": "cpu-upgrade",
+        "shortDescription": "No description available"
+    },
+    {
+        "url": "https://huggingface.co/spaces/banana-projects/transformer-autocomplete",
+        "title": "Transformer Autocomplete",
+        "author": "banana-projects",
+        "likes": 25,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
@@ -723,7 +723,7 @@
         "url": "https://huggingface.co/spaces/lerobot/visualize_dataset",
         "title": "Visualize Dataset (v2.0+ latest dataset format)",
         "author": "lerobot",
-        "likes": 749,
+        "likes": 750,
         "current_hardware": "cpu-upgrade",
         "shortDescription": "No description available"
     },
